@@ -1,0 +1,1082 @@
+[
+    {
+        "name": {
+            "common": "Portugal",
+            "official": "Portuguese Republic",
+            "nativeName": {
+                "por": {
+                    "official": "República Portuguesa",
+                    "common": "Portugal"
+                }
+            }
+        },
+        "tld": [
+            ".pt"
+        ],
+        "cca2": "PT",
+        "ccn3": "620",
+        "cioc": "POR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "symbol": "€",
+                "name": "Euro"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "51"
+            ]
+        },
+        "capital": [
+            "Lisbon"
+        ],
+        "altSpellings": [
+            "PT",
+            "Portuguesa",
+            "Portuguese Republic",
+            "República Portuguesa"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "latlng": [39.5, -8],
+        "landlocked": false,
+        "borders": [
+            "ESP"
+        ],
+        "area": 92090,
+        "demonyms": {
+            "eng": {
+                "f": "Portuguese",
+                "m": "Portuguese"
+            },
+            "fra": {
+                "f": "Portugaise",
+                "m": "Portugais"
+            }
+        },
+        "cca3": "PRT",
+        "translations": {
+            "ara": {
+                "official": "الجمهورية البرتغالية",
+                "common": "البرتغال"
+            },
+            "bre": {
+                "official": "Republik Portugalat",
+                "common": "Portugal"
+            },
+            "ces": {
+                "official": "Portugalská republika",
+                "common": "Portugalsko"
+            },
+            "cym": {
+                "official": "Portuguese Republic",
+                "common": "Portugal"
+            },
+            "deu": {
+                "official": "Portugiesische Republik",
+                "common": "Portugal"
+            },
+            "est": {
+                "official": "Portugali Vabariik",
+                "common": "Portugal"
+            },
+            "fin": {
+                "official": "Portugalin tasavalta",
+                "common": "Portugali"
+            },
+            "fra": {
+                "official": "République portugaise",
+                "common": "Portugal"
+            },
+            "hrv": {
+                "official": "Portugalska Republika",
+                "common": "Portugal"
+            },
+            "hun": {
+                "official": "Portugál Köztársaság",
+                "common": "Portugália"
+            },
+            "ind": {
+                "official": "Republik Portugal",
+                "common": "Portugal"
+            },
+            "ita": {
+                "official": "Repubblica portoghese",
+                "common": "Portogallo"
+            },
+            "jpn": {
+                "official": "ポルトガル共和国",
+                "common": "ポルトガル"
+            },
+            "kor": {
+                "official": "포르투갈 공화국",
+                "common": "포르투갈"
+            },
+            "nld": {
+                "official": "Portugese Republiek",
+                "common": "Portugal"
+            },
+            "per": {
+                "official": "جمهوری پرتغال",
+                "common": "پرتغال"
+            },
+            "pol": {
+                "official": "Republika Portugalska",
+                "common": "Portugalia"
+            },
+            "por": {
+                "official": "República português",
+                "common": "Portugal"
+            },
+            "rus": {
+                "official": "Португальская Республика",
+                "common": "Португалия"
+            },
+            "slk": {
+                "official": "Portugalská republika",
+                "common": "Portugalsko"
+            },
+            "spa": {
+                "official": "República Portuguesa",
+                "common": "Portugal"
+            },
+            "srp": {
+                "official": "Португалска Република",
+                "common": "Португал"
+            },
+            "swe": {
+                "official": "Republiken Portugal",
+                "common": "Portugal"
+            },
+            "tur": {
+                "official": "Portekiz Cumhuriyeti",
+                "common": "Portekiz"
+            },
+            "urd": {
+                "official": "جمہوریہ پرتگال",
+                "common": "پرتگال"
+            },
+            "zho": {
+                "official": "葡萄牙共和国",
+                "common": "葡萄牙"
+            }
+        },
+        "flag": "🇵🇹",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+        },
+        "population": 10305564,
+        "gini": {
+            "2018": 33.5
+        },
+        "fifa": "POR",
+        "car": {
+            "signs": [
+                "P"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pt.png",
+            "svg": "https://flagcdn.com/pt.svg",
+            "alt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/pt.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/pt.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [38.72, -9.13]
+        },
+        "postalCode": {
+            "format": "####-###",
+            "regex": "^(\\d{7})$"
+        }
+    },
+    {
+        "name": {
+            "common": "France",
+            "official": "French Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République française",
+                    "common": "France"
+                }
+            }
+        },
+        "tld": [
+            ".fr"
+        ],
+        "cca2": "FR",
+        "ccn3": "250",
+        "cioc": "FRA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "symbol": "€",
+                "name": "Euro"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "3"
+            ]
+        },
+        "capital": [
+            "Paris"
+        ],
+        "altSpellings": [
+            "FR",
+            "French Republic",
+            "République française"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "latlng": [46, 2],
+        "landlocked": false,
+        "borders": [
+            "AND",
+            "BEL",
+            "DEU",
+            "ITA",
+            "LUX",
+            "MCO",
+            "ESP",
+            "CHE"
+        ],
+        "area": 551695,
+        "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
+            "fra": {
+                "f": "Française",
+                "m": "Français"
+            }
+        },
+        "cca3": "FRA",
+        "translations": {
+            "ara": {
+                "official": "الجمهورية الفرنسية",
+                "common": "فرنسا"
+            },
+            "bre": {
+                "official": "Republik Frañs",
+                "common": "Frañs"
+            },
+            "ces": {
+                "official": "Francouzská republika",
+                "common": "Francie"
+            },
+            "cym": {
+                "official": "French Republic",
+                "common": "France"
+            },
+            "deu": {
+                "official": "Französische Republik",
+                "common": "Frankreich"
+            },
+            "est": {
+                "official": "Prantsuse Vabariik",
+                "common": "Prantsusmaa"
+            },
+            "fin": {
+                "official": "Ranskan tasavalta",
+                "common": "Ranska"
+            },
+            "fra": {
+                "official": "République française",
+                "common": "France"
+            },
+            "hrv": {
+                "official": "Francuska Republika",
+                "common": "Francuska"
+            },
+            "hun": {
+                "official": "Francia Köztársaság",
+                "common": "Franciaország"
+            },
+            "ind": {
+                "official": "Republik Prancis",
+                "common": "Prancis"
+            },
+            "ita": {
+                "official": "Repubblica francese",
+                "common": "Francia"
+            },
+            "jpn": {
+                "official": "フランス共和国",
+                "common": "フランス"
+            },
+            "kor": {
+                "official": "프랑스 공화국",
+                "common": "프랑스"
+            },
+            "nld": {
+                "official": "Franse Republiek",
+                "common": "Frankrijk"
+            },
+            "per": {
+                "official": "جمهوری فرانسه",
+                "common": "فرانسه"
+            },
+            "pol": {
+                "official": "Republika Francuska",
+                "common": "Francja"
+            },
+            "por": {
+                "official": "República Francesa",
+                "common": "França"
+            },
+            "rus": {
+                "official": "Французская Республика",
+                "common": "Франция"
+            },
+            "slk": {
+                "official": "Francúzska republika",
+                "common": "Francúzsko"
+            },
+            "spa": {
+                "official": "República francés",
+                "common": "Francia"
+            },
+            "srp": {
+                "official": "Француска Република",
+                "common": "Француска"
+            },
+            "swe": {
+                "official": "Republiken Frankrike",
+                "common": "Frankrike"
+            },
+            "tur": {
+                "official": "Fransa Cumhuriyeti",
+                "common": "Fransa"
+            },
+            "urd": {
+                "official": "جمہوریہ فرانس",
+                "common": "فرانس"
+            },
+            "zho": {
+                "official": "法兰西共和国",
+                "common": "法国"
+            }
+        },
+        "flag": "🇫🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
+        },
+        "population": 67391582,
+        "gini": {
+            "2018": 32.4
+        },
+        "fifa": "FRA",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+05:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/fr.png",
+            "svg": "https://flagcdn.com/fr.svg",
+            "alt": "The flag of France is composed of three equal vertical bands of blue, white and red."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/fr.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/fr.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [48.87, 2.33]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Denmark",
+            "official": "Kingdom of Denmark",
+            "nativeName": {
+                "dan": {
+                    "official": "Kongeriget Danmark",
+                    "common": "Danmark"
+                }
+            }
+        },
+        "tld": [
+            ".dk"
+        ],
+        "cca2": "DK",
+        "ccn3": "208",
+        "cioc": "DEN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "DKK": {
+                "symbol": "kr",
+                "name": "Danish krone"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "5"
+            ]
+        },
+        "capital": [
+            "Copenhagen"
+        ],
+        "altSpellings": [
+            "DK",
+            "Danmark",
+            "Kingdom of Denmark",
+            "Kongeriget Danmark"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish"
+        },
+        "latlng": [56, 10],
+        "landlocked": false,
+        "borders": [
+            "DEU"
+        ],
+        "area": 43094,
+        "demonyms": {
+            "eng": {
+                "f": "Danish",
+                "m": "Danish"
+            },
+            "fra": {
+                "f": "Danoise",
+                "m": "Danois"
+            }
+        },
+        "cca3": "DNK",
+        "translations": {
+            "ara": {
+                "official": "مملكة الدنمارك",
+                "common": "الدنمارك"
+            },
+            "bre": {
+                "official": "Rouantelezh Danmark",
+                "common": "Danmark"
+            },
+            "ces": {
+                "official": "Dánské království",
+                "common": "Dánsko"
+            },
+            "cym": {
+                "official": "Teyrnas Denmarc",
+                "common": "Denmarc"
+            },
+            "deu": {
+                "official": "Königreich Dänemark",
+                "common": "Dänemark"
+            },
+            "est": {
+                "official": "Taani Kuningriik",
+                "common": "Taani"
+            },
+            "fin": {
+                "official": "Tanskan kuningaskunta",
+                "common": "Tanska"
+            },
+            "fra": {
+                "official": "Royaume du Danemark",
+                "common": "Danemark"
+            },
+            "hrv": {
+                "official": "Kraljevina Danska",
+                "common": "Danska"
+            },
+            "hun": {
+                "official": "Dán Királyság",
+                "common": "Dánia"
+            },
+            "ind": {
+                "official": "Kerajaan Denmark",
+                "common": "Denmark"
+            },
+            "ita": {
+                "official": "Regno di Danimarca",
+                "common": "Danimarca"
+            },
+            "jpn": {
+                "official": "デンマーク王国",
+                "common": "デンマーク"
+            },
+            "kor": {
+                "official": "덴마크 왕국",
+                "common": "덴마크"
+            },
+            "nld": {
+                "official": "Koninkrijk Denemarken",
+                "common": "Denemarken"
+            },
+            "per": {
+                "official": "پادشاهی دانمارک",
+                "common": "دانمارک"
+            },
+            "pol": {
+                "official": "Królestwo Danii",
+                "common": "Dania"
+            },
+            "por": {
+                "official": "Reino da Dinamarca",
+                "common": "Dinamarca"
+            },
+            "rus": {
+                "official": "Королевство Дания",
+                "common": "Дания"
+            },
+            "slk": {
+                "official": "Dánske kráľovstvo",
+                "common": "Dánsko"
+            },
+            "spa": {
+                "official": "Reino de Dinamarca",
+                "common": "Dinamarca"
+            },
+            "srp": {
+                "official": "Краљевина Данска",
+                "common": "Данска"
+            },
+            "swe": {
+                "official": "Konungariket Danmark",
+                "common": "Danmark"
+            },
+            "tur": {
+                "official": "Danimarka Krallığı",
+                "common": "Danimarka"
+            },
+            "urd": {
+                "official": "مملکتِ ڈنمارک",
+                "common": "ڈنمارک"
+            },
+            "zho": {
+                "official": "丹麦王国",
+                "common": "丹麦"
+            }
+        },
+        "flag": "🇩🇰",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
+        },
+        "population": 5831404,
+        "gini": {
+            "2018": 28.2
+        },
+        "fifa": "DEN",
+        "car": {
+            "signs": [
+                "DK"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC",
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/dk.png",
+            "svg": "https://flagcdn.com/dk.svg",
+            "alt": "The flag of Denmark has a red field with a large white cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/dk.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/dk.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [55.67, 12.58]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Ukraine",
+            "official": "Ukraine",
+            "nativeName": {
+                "ukr": {
+                    "official": "Україна",
+                    "common": "Україна"
+                }
+            }
+        },
+        "tld": [
+            ".ua",
+            ".укр"
+        ],
+        "cca2": "UA",
+        "ccn3": "804",
+        "cioc": "UKR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "UAH": {
+                "symbol": "₴",
+                "name": "Ukrainian hryvnia"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "80"
+            ]
+        },
+        "capital": [
+            "Kyiv"
+        ],
+        "altSpellings": [
+            "UA",
+            "Ukrayina"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "latlng": [49, 32],
+        "landlocked": false,
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "area": 603500,
+        "demonyms": {
+            "eng": {
+                "f": "Ukrainian",
+                "m": "Ukrainian"
+            },
+            "fra": {
+                "f": "Ukrainienne",
+                "m": "Ukrainien"
+            }
+        },
+        "cca3": "UKR",
+        "translations": {
+            "ara": {
+                "official": "أوكرانيا",
+                "common": "أوكرانيا"
+            },
+            "bre": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "ces": {
+                "official": "Ukrajina",
+                "common": "Ukrajina"
+            },
+            "cym": {
+                "official": "Ukraine",
+                "common": "Ukraine"
+            },
+            "deu": {
+                "official": "Ukraine",
+                "common": "Ukraine"
+            },
+            "est": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "fin": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "fra": {
+                "official": "Ukraine",
+                "common": "Ukraine"
+            },
+            "hrv": {
+                "official": "Ukrajina",
+                "common": "Ukrajina"
+            },
+            "hun": {
+                "official": "Ukrajna",
+                "common": "Ukrajna"
+            },
+            "ind": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "ita": {
+                "official": "Ucraina",
+                "common": "Ucraina"
+            },
+            "jpn": {
+                "official": "ウクライナ",
+                "common": "ウクライナ"
+            },
+            "kor": {
+                "official": "우크라이나",
+                "common": "우크라이나"
+            },
+            "nld": {
+                "official": "Oekraïne",
+                "common": "Oekraïne"
+            },
+            "per": {
+                "official": "اوکراین",
+                "common": "اوکراین"
+            },
+            "pol": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "por": {
+                "official": "Ucrânia",
+                "common": "Ucrânia"
+            },
+            "rus": {
+                "official": "Украина",
+                "common": "Украина"
+            },
+            "slk": {
+                "official": "Ukrajina",
+                "common": "Ukrajina"
+            },
+            "spa": {
+                "official": "Ucrania",
+                "common": "Ucrania"
+            },
+            "srp": {
+                "official": "Украјина",
+                "common": "Украјина"
+            },
+            "swe": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
+            "tur": {
+                "official": "Ukrayna",
+                "common": "Ukrayna"
+            },
+            "urd": {
+                "official": "یوکرین",
+                "common": "یوکرین"
+            },
+            "zho": {
+                "official": "乌克兰",
+                "common": "乌克兰"
+            }
+        },
+        "flag": "🇺🇦",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+        },
+        "population": 44134693,
+        "gini": {
+            "2019": 26.6
+        },
+        "fifa": "UKR",
+        "car": {
+            "signs": [
+                "UA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ua.png",
+            "svg": "https://flagcdn.com/ua.svg",
+            "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ua.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [50.43, 30.52]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Austria",
+            "official": "Republic of Austria",
+            "nativeName": {
+                "bar": {
+                    "official": "Republik Österreich",
+                    "common": "Österreich"
+                }
+            }
+        },
+        "tld": [
+            ".at"
+        ],
+        "cca2": "AT",
+        "ccn3": "040",
+        "cioc": "AUT",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "symbol": "€",
+                "name": "Euro"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "3"
+            ]
+        },
+        "capital": [
+            "Vienna"
+        ],
+        "altSpellings": [
+            "AT",
+            "Osterreich",
+            "Oesterreich"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "latlng": [47.33333333, 13.33333333],
+        "landlocked": true,
+        "borders": [
+            "CZE",
+            "DEU",
+            "HUN",
+            "ITA",
+            "LIE",
+            "SVK",
+            "SVN",
+            "CHE"
+        ],
+        "area": 83871,
+        "demonyms": {
+            "eng": {
+                "f": "Austrian",
+                "m": "Austrian"
+            },
+            "fra": {
+                "f": "Autrichienne",
+                "m": "Autrichien"
+            }
+        },
+        "cca3": "AUT",
+        "translations": {
+            "ara": {
+                "official": "جمهورية النمسا",
+                "common": "النمسا"
+            },
+            "bre": {
+                "official": "Republik Aostria",
+                "common": "Aostria"
+            },
+            "ces": {
+                "official": "Rakouská republika",
+                "common": "Rakousko"
+            },
+            "cym": {
+                "official": "Gweriniaeth Awstria",
+                "common": "Awstria"
+            },
+            "deu": {
+                "official": "Republik Österreich",
+                "common": "Österreich"
+            },
+            "est": {
+                "official": "Austria Vabariik",
+                "common": "Austria"
+            },
+            "fin": {
+                "official": "Itävallan tasavalta",
+                "common": "Itävalta"
+            },
+            "fra": {
+                "official": "République d'Autriche",
+                "common": "Autriche"
+            },
+            "hrv": {
+                "official": "Republika Austrija",
+                "common": "Austrija"
+            },
+            "hun": {
+                "official": "Ausztria",
+                "common": "Ausztria"
+            },
+            "ind": {
+                "official": "Republik Austria",
+                "common": "Austria"
+            },
+            "ita": {
+                "official": "Repubblica d'Austria",
+                "common": "Austria"
+            },
+            "jpn": {
+                "official": "オーストリア共和国",
+                "common": "オーストリア"
+            },
+            "kor": {
+                "official": "오스트리아 공화국",
+                "common": "오스트리아"
+            },
+            "nld": {
+                "official": "Republiek Oostenrijk",
+                "common": "Oostenrijk"
+            },
+            "per": {
+                "official": "جمهوری اتریش",
+                "common": "اتریش"
+            },
+            "pol": {
+                "official": "Republika Austrii",
+                "common": "Austria"
+            },
+            "por": {
+                "official": "República da Áustria",
+                "common": "Áustria"
+            },
+            "rus": {
+                "official": "Австрийская Республика",
+                "common": "Австрия"
+            },
+            "slk": {
+                "official": "Rakúska republika",
+                "common": "Rakúsko"
+            },
+            "spa": {
+                "official": "República de Austria",
+                "common": "Austria"
+            },
+            "srp": {
+                "official": "Република Аустрија",
+                "common": "Аустрија"
+            },
+            "swe": {
+                "official": "Republiken Österrike",
+                "common": "Österrike"
+            },
+            "tur": {
+                "official": "Avusturya Cumhuriyeti",
+                "common": "Avusturya"
+            },
+            "urd": {
+                "official": "جمہوریہ آسٹریا",
+                "common": "آسٹریا"
+            },
+            "zho": {
+                "official": "奥地利共和国",
+                "common": "奥地利"
+            }
+        },
+        "flag": "🇦🇹",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+        },
+        "population": 8917205,
+        "gini": {
+            "2018": 30.8
+        },
+        "fifa": "AUT",
+        "car": {
+            "signs": [
+                "A"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/at.png",
+            "svg": "https://flagcdn.com/at.svg",
+            "alt": "The flag of Austria is composed of three equal horizontal bands of red, white and red."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/at.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/at.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [48.2, 16.37]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    }
+]

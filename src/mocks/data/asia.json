@@ -1,0 +1,1096 @@
+[
+    {
+        "name": {
+            "common": "Japan",
+            "official": "Japan",
+            "nativeName": {
+                "jpn": {
+                    "official": "日本",
+                    "common": "日本"
+                }
+            }
+        },
+        "tld": [
+            ".jp",
+            ".みんな"
+        ],
+        "cca2": "JP",
+        "ccn3": "392",
+        "cioc": "JPN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "JPY": {
+                "symbol": "¥",
+                "name": "Japanese yen"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "capital": [
+            "Tokyo"
+        ],
+        "altSpellings": [
+            "JP",
+            "Nippon",
+            "Nihon"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "jpn": "Japanese"
+        },
+        "latlng": [
+            36,
+            138
+        ],
+        "landlocked": false,
+        "area": 377930,
+        "demonyms": {
+            "eng": {
+                "f": "Japanese",
+                "m": "Japanese"
+            },
+            "fra": {
+                "f": "Japonaise",
+                "m": "Japonais"
+            }
+        },
+        "cca3": "JPN",
+        "translations": {
+            "ara": {
+                "official": "اليابان",
+                "common": "اليابان"
+            },
+            "bre": {
+                "official": "Japan",
+                "common": "Japan"
+            },
+            "ces": {
+                "official": "Japonsko",
+                "common": "Japonsko"
+            },
+            "cym": {
+                "official": "Japan",
+                "common": "Japan"
+            },
+            "deu": {
+                "official": "Japan",
+                "common": "Japan"
+            },
+            "est": {
+                "official": "Jaapan",
+                "common": "Jaapan"
+            },
+            "fin": {
+                "official": "Japani",
+                "common": "Japani"
+            },
+            "fra": {
+                "official": "Japon",
+                "common": "Japon"
+            },
+            "hrv": {
+                "official": "Japan",
+                "common": "Japan"
+            },
+            "hun": {
+                "official": "Japán",
+                "common": "Japán"
+            },
+            "ind": {
+                "official": "Jepang",
+                "common": "Jepang"
+            },
+            "ita": {
+                "official": "Giappone",
+                "common": "Giappone"
+            },
+            "jpn": {
+                "official": "日本",
+                "common": "日本"
+            },
+            "kor": {
+                "official": "일본국",
+                "common": "일본"
+            },
+            "nld": {
+                "official": "Japan",
+                "common": "Japan"
+            },
+            "per": {
+                "official": "ژاپن",
+                "common": "ژاپن"
+            },
+            "pol": {
+                "official": "Japonia",
+                "common": "Japonia"
+            },
+            "por": {
+                "official": "Japão",
+                "common": "Japão"
+            },
+            "rus": {
+                "official": "Япония",
+                "common": "Япония"
+            },
+            "slk": {
+                "official": "Japonsko",
+                "common": "Japonsko"
+            },
+            "spa": {
+                "official": "Japón",
+                "common": "Japón"
+            },
+            "srp": {
+                "official": "Јапан",
+                "common": "Јапан"
+            },
+            "swe": {
+                "official": "Japan",
+                "common": "Japan"
+            },
+            "tur": {
+                "official": "Japonya",
+                "common": "Japonya"
+            },
+            "urd": {
+                "official": "جاپان",
+                "common": "جاپان"
+            },
+            "zho": {
+                "official": "日本国",
+                "common": "日本"
+            }
+        },
+        "flag": "🇯🇵",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
+        },
+        "population": 125836021,
+        "gini": {
+            "2013": 32.9
+        },
+        "fifa": "JPN",
+        "car": {
+            "signs": [
+                "J"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/jp.png",
+            "svg": "https://flagcdn.com/jp.svg",
+            "alt": "The flag of Japan features a crimson-red circle at the center of a white field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/jp.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/jp.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                35.68,
+                139.75
+            ]
+        },
+        "postalCode": {
+            "format": "###-####",
+            "regex": "^(\\d{7})$"
+        }
+    },
+    {
+        "name": {
+            "common": "South Korea",
+            "official": "Republic of Korea",
+            "nativeName": {
+                "kor": {
+                    "official": "대한민국",
+                    "common": "한국"
+                }
+            }
+        },
+        "tld": [
+            ".kr",
+            ".한국"
+        ],
+        "cca2": "KR",
+        "ccn3": "410",
+        "cioc": "KOR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "KRW": {
+                "symbol": "₩",
+                "name": "South Korean won"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "capital": [
+            "Seoul"
+        ],
+        "altSpellings": [
+            "KR",
+            "Korea, Republic of",
+            "Republic of Korea",
+            "남한",
+            "남조선"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "latlng": [
+            37,
+            127.5
+        ],
+        "landlocked": false,
+        "borders": [
+            "PRK"
+        ],
+        "area": 100210,
+        "demonyms": {
+            "eng": {
+                "f": "South Korean",
+                "m": "South Korean"
+            },
+            "fra": {
+                "f": "Sud-coréenne",
+                "m": "Sud-coréen"
+            }
+        },
+        "cca3": "KOR",
+        "translations": {
+            "ara": {
+                "official": "جمهورية كوريا",
+                "common": "كوريا الجنوبية"
+            },
+            "bre": {
+                "official": "Republik Korea",
+                "common": "Korea ar Su"
+            },
+            "ces": {
+                "official": "Korejská republika",
+                "common": "Jižní Korea"
+            },
+            "cym": {
+                "official": "Republic of Korea",
+                "common": "South Korea"
+            },
+            "deu": {
+                "official": "Republik Korea",
+                "common": "Südkorea"
+            },
+            "est": {
+                "official": "Korea Vabariik",
+                "common": "Lõuna-Korea"
+            },
+            "fin": {
+                "official": "Korean tasavalta",
+                "common": "Etelä-Korea"
+            },
+            "fra": {
+                "official": "République de Corée",
+                "common": "Corée du Sud"
+            },
+            "hrv": {
+                "official": "Republika Koreja",
+                "common": "Južna Koreja"
+            },
+            "hun": {
+                "official": "Koreai Köztársaság",
+                "common": "Dél-Korea"
+            },
+            "ind": {
+                "official": "Republik Korea",
+                "common": "Korea Selatan"
+            },
+            "ita": {
+                "official": "Repubblica di Corea",
+                "common": "Corea del Sud"
+            },
+            "jpn": {
+                "official": "大韓民国",
+                "common": "韓国"
+            },
+            "kor": {
+                "official": "대한민국",
+                "common": "한국"
+            },
+            "nld": {
+                "official": "Republiek Korea",
+                "common": "Zuid-Korea"
+            },
+            "per": {
+                "official": "جمهوری کره",
+                "common": "کرهٔ جنوبی"
+            },
+            "pol": {
+                "official": "Republika Korei",
+                "common": "Korea Południowa"
+            },
+            "por": {
+                "official": "República da Coreia",
+                "common": "Coreia do Sul"
+            },
+            "rus": {
+                "official": "Республика Корея",
+                "common": "Южная Корея"
+            },
+            "slk": {
+                "official": "Kórejská republika",
+                "common": "Južná Kórea"
+            },
+            "spa": {
+                "official": "República de Corea",
+                "common": "Corea del Sur"
+            },
+            "srp": {
+                "official": "Република Кореја",
+                "common": "Јужна Кореја"
+            },
+            "swe": {
+                "official": "Republiken Korea",
+                "common": "Sydkorea"
+            },
+            "tur": {
+                "official": "Kore Cumhuriyeti",
+                "common": "Güney Kore"
+            },
+            "urd": {
+                "official": "جمہوریہ کوریا ",
+                "common": "جنوبی کوریا"
+            },
+            "zho": {
+                "official": "大韩民国",
+                "common": "韩国"
+            }
+        },
+        "flag": "🇰🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307756"
+        },
+        "population": 51780579,
+        "gini": {
+            "2016": 31.4
+        },
+        "fifa": "KOR",
+        "car": {
+            "signs": [
+                "ROK"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/kr.png",
+            "svg": "https://flagcdn.com/kr.svg",
+            "alt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/kr.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                37.55,
+                126.98
+            ]
+        },
+        "postalCode": {
+            "format": "SEOUL ###-###",
+            "regex": "^(?:SEOUL)*(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "United Arab Emirates",
+            "official": "United Arab Emirates",
+            "nativeName": {
+                "ara": {
+                    "official": "الإمارات العربية المتحدة",
+                    "common": "دولة الإمارات العربية المتحدة"
+                }
+            }
+        },
+        "tld": [
+            ".ae",
+            "امارات."
+        ],
+        "cca2": "AE",
+        "ccn3": "784",
+        "cioc": "UAE",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "AED": {
+                "symbol": "د.إ",
+                "name": "United Arab Emirates dirham"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "71"
+            ]
+        },
+        "capital": [
+            "Abu Dhabi"
+        ],
+        "altSpellings": [
+            "AE",
+            "UAE",
+            "Emirates"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "latlng": [
+            24,
+            54
+        ],
+        "landlocked": false,
+        "borders": [
+            "OMN",
+            "SAU"
+        ],
+        "area": 83600,
+        "demonyms": {
+            "eng": {
+                "f": "Emirati",
+                "m": "Emirati"
+            },
+            "fra": {
+                "f": "Emirienne",
+                "m": "Emirien"
+            }
+        },
+        "cca3": "ARE",
+        "translations": {
+            "ara": {
+                "official": "الإمارات العربية المتحدة",
+                "common": "دولة الإمارات العربية المتحدة"
+            },
+            "bre": {
+                "official": "Emirelezhioù Arab Unanet",
+                "common": "Emirelezhioù Arab Unanet"
+            },
+            "ces": {
+                "official": "Spojené arabské emiráty",
+                "common": "Arabské emiráty"
+            },
+            "cym": {
+                "official": "United Arab Emirates",
+                "common": "United Arab Emirates"
+            },
+            "deu": {
+                "official": "Vereinigte Arabische Emirate",
+                "common": "Vereinigte Arabische Emirate"
+            },
+            "est": {
+                "official": "Araabia Ühendemiraadid",
+                "common": "Araabia Ühendemiraadid"
+            },
+            "fin": {
+                "official": "Yhdistyneet arabiemiirikunnat",
+                "common": "Arabiemiraatit"
+            },
+            "fra": {
+                "official": "Émirats arabes unis",
+                "common": "Émirats arabes unis"
+            },
+            "hrv": {
+                "official": "Ujedinjeni Arapski Emirati",
+                "common": "Arapski Emirati"
+            },
+            "hun": {
+                "official": "Egyesült Arab Emírségek",
+                "common": "Egyesült Arab Emírségek"
+            },
+            "ind": {
+                "official": "Uni Emirat Arab",
+                "common": "Uni Emirat Arab"
+            },
+            "ita": {
+                "official": "Emirati Arabi Uniti",
+                "common": "Emirati Arabi Uniti"
+            },
+            "jpn": {
+                "official": "アラブ首長国連邦",
+                "common": "アラブ首長国連邦"
+            },
+            "kor": {
+                "official": "아랍 토후국 연방",
+                "common": "아랍에미리트"
+            },
+            "nld": {
+                "official": "Verenigde Arabische Emiraten",
+                "common": "Verenigde Arabische Emiraten"
+            },
+            "per": {
+                "official": "امارات متحده عربی",
+                "common": "امارات"
+            },
+            "pol": {
+                "official": "Zjednoczone Emiraty Arabskie",
+                "common": "Emiraty Arabskie"
+            },
+            "por": {
+                "official": "Emirados Árabes Unidos",
+                "common": "Emirados Árabes Unidos"
+            },
+            "rus": {
+                "official": "Объединенные Арабские Эмираты",
+                "common": "Объединённые Арабские Эмираты"
+            },
+            "slk": {
+                "official": "Spojené arabské emiráty",
+                "common": "Arabské emiráty"
+            },
+            "spa": {
+                "official": "Emiratos Árabes Unidos",
+                "common": "Emiratos Árabes Unidos"
+            },
+            "srp": {
+                "official": "Уједињени Арапски Емирати",
+                "common": "Уједињени Арапски Емирати"
+            },
+            "swe": {
+                "official": "Förenade Arabemiraten",
+                "common": "Förenade Arabemiraten"
+            },
+            "tur": {
+                "official": "Birleşik Arap Emirlikleri",
+                "common": "Birleşik Arap Emirlikleri"
+            },
+            "urd": {
+                "official": "متحدہ عرب امارات",
+                "common": "متحدہ عرب امارات"
+            },
+            "zho": {
+                "official": "阿拉伯联合酋长国",
+                "common": "阿拉伯联合酋长国"
+            }
+        },
+        "flag": "🇦🇪",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
+        },
+        "population": 9890400,
+        "gini": {
+            "2018": 26
+        },
+        "fifa": "UAE",
+        "car": {
+            "signs": [
+                "UAE"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ae.png",
+            "svg": "https://flagcdn.com/ae.svg",
+            "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ae.svg"
+        },
+        "startOfWeek": "sunday",
+        "capitalInfo": {
+            "latlng": [
+                24.47,
+                54.37
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Pakistan",
+            "official": "Islamic Republic of Pakistan",
+            "nativeName": {
+                "eng": {
+                    "official": "Islamic Republic of Pakistan",
+                    "common": "Pakistan"
+                },
+                "urd": {
+                    "official": "اسلامی جمہوریۂ پاكستان",
+                    "common": "پاكستان"
+                }
+            }
+        },
+        "tld": [
+            ".pk"
+        ],
+        "cca2": "PK",
+        "ccn3": "586",
+        "cioc": "PAK",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PKR": {
+                "symbol": "₨",
+                "name": "Pakistani rupee"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "capital": [
+            "Islamabad"
+        ],
+        "altSpellings": [
+            "PK",
+            "Pākistān",
+            "Islamic Republic of Pakistan",
+            "Islāmī Jumhūriya'eh Pākistān"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "urd": "Urdu"
+        },
+        "latlng": [
+            30,
+            70
+        ],
+        "landlocked": false,
+        "borders": [
+            "AFG",
+            "CHN",
+            "IND",
+            "IRN"
+        ],
+        "area": 881912,
+        "demonyms": {
+            "eng": {
+                "f": "Pakistani",
+                "m": "Pakistani"
+            },
+            "fra": {
+                "f": "Pakistanaise",
+                "m": "Pakistanais"
+            }
+        },
+        "cca3": "PAK",
+        "translations": {
+            "ara": {
+                "official": "جمهورية باكستان الإسلامية",
+                "common": "باكستان"
+            },
+            "bre": {
+                "official": "Republik islamek Pakistan",
+                "common": "Pakistan"
+            },
+            "ces": {
+                "official": "Pákistánská islámská republika",
+                "common": "Pákistán"
+            },
+            "cym": {
+                "official": "Islamic Republic of Pakistan",
+                "common": "Pakistan"
+            },
+            "deu": {
+                "official": "Islamische Republik Pakistan",
+                "common": "Pakistan"
+            },
+            "est": {
+                "official": "Pakistani Islamivabariik",
+                "common": "Pakistan"
+            },
+            "fin": {
+                "official": "Pakistanin islamilainen tasavalta",
+                "common": "Pakistan"
+            },
+            "fra": {
+                "official": "République islamique du Pakistan",
+                "common": "Pakistan"
+            },
+            "hrv": {
+                "official": "Islamska Republika Pakistan",
+                "common": "Pakistan"
+            },
+            "hun": {
+                "official": "Pakisztán",
+                "common": "Pakisztán"
+            },
+            "ind": {
+                "official": "Republik Islam Pakistan",
+                "common": "Pakistan"
+            },
+            "ita": {
+                "official": "Repubblica islamica del Pakistan",
+                "common": "Pakistan"
+            },
+            "jpn": {
+                "official": "パキスタン",
+                "common": "パキスタン"
+            },
+            "kor": {
+                "official": "파키스탄 이슬람 공화국",
+                "common": "파키스탄"
+            },
+            "nld": {
+                "official": "Islamitische Republiek Pakistan",
+                "common": "Pakistan"
+            },
+            "per": {
+                "official": "جمهوری اسلامی پاکستان",
+                "common": "پاکستان"
+            },
+            "pol": {
+                "official": "Islamska Republika Pakistanu",
+                "common": "Pakistan"
+            },
+            "por": {
+                "official": "República Islâmica do Paquistão",
+                "common": "Paquistão"
+            },
+            "rus": {
+                "official": "Исламская Республика Пакистан",
+                "common": "Пакистан"
+            },
+            "slk": {
+                "official": "Pakistanská islamská republika",
+                "common": "Pakistan"
+            },
+            "spa": {
+                "official": "República Islámica de Pakistán",
+                "common": "Pakistán"
+            },
+            "srp": {
+                "official": "Исламска Република Пакистан",
+                "common": "Пакистан"
+            },
+            "swe": {
+                "official": "Islamiska republiken Pakistan",
+                "common": "Pakistan"
+            },
+            "tur": {
+                "official": "Pakistan İslam Cumhuriyeti",
+                "common": "Pakistan"
+            },
+            "urd": {
+                "official": "اسلامی جمہوریہ پاکستان",
+                "common": "پاکستان"
+            },
+            "zho": {
+                "official": "巴基斯坦伊斯兰共和国",
+                "common": "巴基斯坦"
+            }
+        },
+        "flag": "🇵🇰",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307573"
+        },
+        "population": 220892331,
+        "gini": {
+            "2018": 31.6
+        },
+        "fifa": "PAK",
+        "car": {
+            "signs": [
+                "PK"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pk.png",
+            "svg": "https://flagcdn.com/pk.svg",
+            "alt": "The flag of Pakistan is composed of a white vertical band on its hoist side that takes up about one-fourth the width of the field and a dark green rectangular area that spans the rest of the field. A white fly-side facing crescent and five-pointed star are centered in the dark green area."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/pk.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/pk.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                33.68,
+                73.05
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Palestine",
+            "official": "State of Palestine",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة فلسطين",
+                    "common": "فلسطين"
+                }
+            }
+        },
+        "tld": [
+            ".ps",
+            "فلسطين."
+        ],
+        "cca2": "PS",
+        "ccn3": "275",
+        "cioc": "PLE",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "EGP": {
+                "symbol": "E£",
+                "name": "Egyptian pound"
+            },
+            "ILS": {
+                "symbol": "₪",
+                "name": "Israeli new shekel"
+            },
+            "JOD": {
+                "symbol": "JD",
+                "name": "Jordanian dinar"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "70"
+            ]
+        },
+        "capital": [
+            "Ramallah",
+            "Jerusalem"
+        ],
+        "altSpellings": [
+            "PS",
+            "Palestine, State of",
+            "State of Palestine",
+            "Dawlat Filasṭin"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "latlng": [
+            31.9,
+            35.2
+        ],
+        "landlocked": false,
+        "borders": [
+            "ISR",
+            "EGY",
+            "JOR"
+        ],
+        "area": 6220,
+        "demonyms": {
+            "eng": {
+                "f": "Palestinian",
+                "m": "Palestinian"
+            },
+            "fra": {
+                "f": "Palestinienne",
+                "m": "Palestinien"
+            }
+        },
+        "cca3": "PSE",
+        "translations": {
+            "ara": {
+                "official": "دولة فلسطين",
+                "common": "فلسطين"
+            },
+            "bre": {
+                "official": "Stad Palestina",
+                "common": "Palestina"
+            },
+            "ces": {
+                "official": "Stát Palestina",
+                "common": "Palestina"
+            },
+            "cym": {
+                "official": "State of Palestine",
+                "common": "Palestine"
+            },
+            "deu": {
+                "official": "Staat Palästina",
+                "common": "Palästina"
+            },
+            "est": {
+                "official": "Palestiina Riik",
+                "common": "Palestiina"
+            },
+            "fin": {
+                "official": "Palestiinan valtio",
+                "common": "Palestiina"
+            },
+            "fra": {
+                "official": "État de Palestine",
+                "common": "Palestine"
+            },
+            "hrv": {
+                "official": "State of Palestine",
+                "common": "Palestina"
+            },
+            "hun": {
+                "official": "Palesztin Autonómia",
+                "common": "Palesztina"
+            },
+            "ind": {
+                "official": "Negara Palestina",
+                "common": "Palestina"
+            },
+            "ita": {
+                "official": "Stato di Palestina",
+                "common": "Palestina"
+            },
+            "jpn": {
+                "official": "パレスチナ自治政府",
+                "common": "パレスチナ"
+            },
+            "kor": {
+                "official": "팔레스타인국",
+                "common": "팔레스타인"
+            },
+            "nld": {
+                "official": "Staat Palestina",
+                "common": "Palestijnse gebieden"
+            },
+            "per": {
+                "official": "دولت فلسطین",
+                "common": "فلسطین"
+            },
+            "pol": {
+                "official": "Państwo Palestyna",
+                "common": "Palestyna"
+            },
+            "por": {
+                "official": "Estado da Palestina",
+                "common": "Palestina"
+            },
+            "rus": {
+                "official": "Государство Палестина",
+                "common": "Палестина"
+            },
+            "slk": {
+                "official": "Palestínsky štát",
+                "common": "Palestína"
+            },
+            "spa": {
+                "official": "Estado de Palestina",
+                "common": "Palestina"
+            },
+            "srp": {
+                "official": "Држава Палестина",
+                "common": "Палестина"
+            },
+            "swe": {
+                "official": "Palestina",
+                "common": "Palestina"
+            },
+            "tur": {
+                "official": "Filistin Devleti",
+                "common": "Filistin"
+            },
+            "urd": {
+                "official": "ریاستِ فلسطین",
+                "common": "فلسطین"
+            },
+            "zho": {
+                "official": "巴勒斯坦国",
+                "common": "巴勒斯坦"
+            }
+        },
+        "flag": "🇵🇸",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
+        },
+        "population": 4803269,
+        "gini": {
+            "2016": 33.7
+        },
+        "fifa": "PLE",
+        "car": {
+            "signs": [
+                "PS"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ps.png",
+            "svg": "https://flagcdn.com/ps.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ps.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg"
+        },
+        "startOfWeek": "sunday",
+        "capitalInfo": {
+            "latlng": [
+                31.9,
+                35.2
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    }
+]

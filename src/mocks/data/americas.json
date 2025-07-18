@@ -1,0 +1,1415 @@
+[
+    {
+        "name": {
+            "common": "Canada",
+            "official": "Canada",
+            "nativeName": {
+                "eng": {
+                    "official": "Canada",
+                    "common": "Canada"
+                },
+                "fra": {
+                    "official": "Canada",
+                    "common": "Canada"
+                }
+            }
+        },
+        "tld": [
+            ".ca"
+        ],
+        "cca2": "CA",
+        "ccn3": "124",
+        "cioc": "CAN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CAD": {
+                "symbol": "$",
+                "name": "Canadian dollar"
+            }
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                ""
+            ]
+        },
+        "capital": [
+            "Ottawa"
+        ],
+        "altSpellings": [
+            "CA"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "latlng": [
+            60,
+            -95
+        ],
+        "landlocked": false,
+        "borders": [
+            "USA"
+        ],
+        "area": 9984670,
+        "demonyms": {
+            "eng": {
+                "f": "Canadian",
+                "m": "Canadian"
+            },
+            "fra": {
+                "f": "Canadienne",
+                "m": "Canadien"
+            }
+        },
+        "cca3": "CAN",
+        "translations": {
+            "ara": {
+                "official": "كندا",
+                "common": "كندا"
+            },
+            "bre": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "ces": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "cym": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "deu": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "est": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "fin": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "fra": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "hrv": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "hun": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "ind": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "ita": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "jpn": {
+                "official": "カナダ",
+                "common": "カナダ"
+            },
+            "kor": {
+                "official": "캐나다",
+                "common": "캐나다"
+            },
+            "nld": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "per": {
+                "official": "کانادا",
+                "common": "کانادا"
+            },
+            "pol": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "por": {
+                "official": "Canadá",
+                "common": "Canadá"
+            },
+            "rus": {
+                "official": "Канада",
+                "common": "Канада"
+            },
+            "slk": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "spa": {
+                "official": "Canadá",
+                "common": "Canadá"
+            },
+            "srp": {
+                "official": "Канада",
+                "common": "Канада"
+            },
+            "swe": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "tur": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "urd": {
+                "official": "کینیڈا",
+                "common": "کینیڈا"
+            },
+            "zho": {
+                "official": "加拿大",
+                "common": "加拿大"
+            }
+        },
+        "flag": "🇨🇦",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+        },
+        "population": 38005238,
+        "gini": {
+            "2017": 33.3
+        },
+        "fifa": "CAN",
+        "car": {
+            "signs": [
+                "CDN"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ca.png",
+            "svg": "https://flagcdn.com/ca.svg",
+            "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ca.svg"
+        },
+        "startOfWeek": "sunday",
+        "capitalInfo": {
+            "latlng": [
+                45.42,
+                -75.7
+            ]
+        },
+        "postalCode": {
+            "format": "@#@ #@#",
+            "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
+        }
+    },
+    {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Chile",
+                    "common": "Chile"
+                }
+            }
+        },
+        "tld": [
+            ".cl"
+        ],
+        "cca2": "CL",
+        "ccn3": "152",
+        "cioc": "CHI",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CLP": {
+                "symbol": "$",
+                "name": "Chilean peso"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Santiago"
+        ],
+        "altSpellings": [
+            "CL",
+            "Republic of Chile",
+            "República de Chile"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "latlng": [
+            -30,
+            -71
+        ],
+        "landlocked": false,
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "area": 756102,
+        "demonyms": {
+            "eng": {
+                "f": "Chilean",
+                "m": "Chilean"
+            },
+            "fra": {
+                "f": "Chilienne",
+                "m": "Chilien"
+            }
+        },
+        "cca3": "CHL",
+        "translations": {
+            "ara": {
+                "official": "جمهورية تشيلي",
+                "common": "تشيلي"
+            },
+            "bre": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
+            "ces": {
+                "official": "Chilská republika",
+                "common": "Chile"
+            },
+            "cym": {
+                "official": "Gweriniaeth Chile",
+                "common": "Chile"
+            },
+            "deu": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
+            "est": {
+                "official": "Tšiili Vabariik",
+                "common": "Tšiili"
+            },
+            "fin": {
+                "official": "Chilen tasavalta",
+                "common": "Chile"
+            },
+            "fra": {
+                "official": "République du Chili",
+                "common": "Chili"
+            },
+            "hrv": {
+                "official": "Republika Čile",
+                "common": "Čile"
+            },
+            "hun": {
+                "official": "Chilei Köztársaság",
+                "common": "Chile"
+            },
+            "ind": {
+                "official": "Republik Chili",
+                "common": "Chili"
+            },
+            "ita": {
+                "official": "Repubblica del Cile",
+                "common": "Cile"
+            },
+            "jpn": {
+                "official": "チリ共和国",
+                "common": "チリ"
+            },
+            "kor": {
+                "official": "칠레 공화국",
+                "common": "칠레"
+            },
+            "nld": {
+                "official": "Republiek Chili",
+                "common": "Chili"
+            },
+            "per": {
+                "official": "جمهوری شیلی",
+                "common": "شیلی"
+            },
+            "pol": {
+                "official": "Republika Chile",
+                "common": "Chile"
+            },
+            "por": {
+                "official": "República do Chile",
+                "common": "Chile"
+            },
+            "rus": {
+                "official": "Республика Чили",
+                "common": "Чили"
+            },
+            "slk": {
+                "official": "Čílska republika",
+                "common": "Čile"
+            },
+            "spa": {
+                "official": "República de Chile",
+                "common": "Chile"
+            },
+            "srp": {
+                "official": "Република Чиле",
+                "common": "Чиле"
+            },
+            "swe": {
+                "official": "Republiken Chile",
+                "common": "Chile"
+            },
+            "tur": {
+                "official": "Şili Cumhuriyeti",
+                "common": "Şili"
+            },
+            "urd": {
+                "official": "جمہوریہ چلی",
+                "common": "چلی"
+            },
+            "zho": {
+                "official": "智利共和国",
+                "common": "智利"
+            }
+        },
+        "flag": "🇨🇱",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+        },
+        "population": 19116209,
+        "gini": {
+            "2017": 44.4
+        },
+        "fifa": "CHI",
+        "car": {
+            "signs": [
+                "RCH"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cl.png",
+            "svg": "https://flagcdn.com/cl.svg",
+            "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -33.45,
+                -70.67
+            ]
+        },
+        "postalCode": {
+            "format": "#######",
+            "regex": "^(\\d{7})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Brazil",
+            "official": "Federative Republic of Brazil",
+            "nativeName": {
+                "por": {
+                    "official": "República Federativa do Brasil",
+                    "common": "Brasil"
+                }
+            }
+        },
+        "tld": [
+            ".br"
+        ],
+        "cca2": "BR",
+        "ccn3": "076",
+        "cioc": "BRA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "BRL": {
+                "symbol": "R$",
+                "name": "Brazilian real"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "5"
+            ]
+        },
+        "capital": [
+            "Brasília"
+        ],
+        "altSpellings": [
+            "BR",
+            "Brasil",
+            "Federative Republic of Brazil",
+            "República Federativa do Brasil"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "latlng": [
+            -10,
+            -55
+        ],
+        "landlocked": false,
+        "borders": [
+            "ARG",
+            "BOL",
+            "COL",
+            "GUF",
+            "GUY",
+            "PRY",
+            "PER",
+            "SUR",
+            "URY",
+            "VEN"
+        ],
+        "area": 8515767,
+        "demonyms": {
+            "eng": {
+                "f": "Brazilian",
+                "m": "Brazilian"
+            },
+            "fra": {
+                "f": "Brésilienne",
+                "m": "Brésilien"
+            }
+        },
+        "cca3": "BRA",
+        "translations": {
+            "ara": {
+                "official": "جمهورية البرازيل الاتحادية",
+                "common": "البرازيل"
+            },
+            "bre": {
+                "official": "Republik Kevreel Brazil",
+                "common": "Brazil"
+            },
+            "ces": {
+                "official": "Brazilská federativní republika",
+                "common": "Brazílie"
+            },
+            "cym": {
+                "official": "Gweriniaeth Ffederal Brasil",
+                "common": "Brasil"
+            },
+            "deu": {
+                "official": "Föderative Republik Brasilien",
+                "common": "Brasilien"
+            },
+            "est": {
+                "official": "Brasiilia Liitvabariik",
+                "common": "Brasiilia"
+            },
+            "fin": {
+                "official": "Brasilian liittotasavalta",
+                "common": "Brasilia"
+            },
+            "fra": {
+                "official": "République fédérative du Brésil",
+                "common": "Brésil"
+            },
+            "hrv": {
+                "official": "Savezne Republike Brazil",
+                "common": "Brazil"
+            },
+            "hun": {
+                "official": "Brazil Szövetségi Köztársaság",
+                "common": "Brazília"
+            },
+            "ind": {
+                "official": "Republik Federatif Brasil",
+                "common": "Brasil"
+            },
+            "ita": {
+                "official": "Repubblica federativa del Brasile",
+                "common": "Brasile"
+            },
+            "jpn": {
+                "official": "ブラジル連邦共和国",
+                "common": "ブラジル"
+            },
+            "kor": {
+                "official": "브라질 연방 공화국",
+                "common": "브라질"
+            },
+            "nld": {
+                "official": "Federale Republiek Brazilië",
+                "common": "Brazilië"
+            },
+            "per": {
+                "official": "جمهوری فدراتیو برزیل",
+                "common": "برزیل"
+            },
+            "pol": {
+                "official": "Federacyjna Republika Brazylii",
+                "common": "Brazylia"
+            },
+            "por": {
+                "official": "República Federativa do Brasil",
+                "common": "Brasil"
+            },
+            "rus": {
+                "official": "Федеративная Республика Бразилия",
+                "common": "Бразилия"
+            },
+            "slk": {
+                "official": "Brazílska federatívna republika",
+                "common": "Brazília"
+            },
+            "spa": {
+                "official": "República Federativa del Brasil",
+                "common": "Brasil"
+            },
+            "srp": {
+                "official": "Савезна Република Бразил",
+                "common": "Бразил"
+            },
+            "swe": {
+                "official": "Förbundsrepubliken Brasilien",
+                "common": "Brasilien"
+            },
+            "tur": {
+                "official": "Brezilya Federal Cumhuriyeti",
+                "common": "Brezilya"
+            },
+            "urd": {
+                "official": "وفاقی جمہوریہ برازیل",
+                "common": "برازیل"
+            },
+            "zho": {
+                "official": "巴西联邦共和国",
+                "common": "巴西"
+            }
+        },
+        "flag": "🇧🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+        },
+        "population": 212559409,
+        "gini": {
+            "2019": 53.4
+        },
+        "fifa": "BRA",
+        "car": {
+            "signs": [
+                "BR"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/br.png",
+            "svg": "https://flagcdn.com/br.svg",
+            "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/br.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg"
+        },
+        "startOfWeek": "sunday",
+        "capitalInfo": {
+            "latlng": [
+                -15.79,
+                -47.88
+            ]
+        },
+        "postalCode": {
+            "format": "#####-###",
+            "regex": "^(\\d{8})$"
+        }
+    },
+    {
+        "name": {
+            "common": "United States",
+            "official": "United States of America",
+            "nativeName": {
+                "eng": {
+                    "official": "United States of America",
+                    "common": "United States"
+                }
+            }
+        },
+        "tld": [
+            ".us"
+        ],
+        "cca2": "US",
+        "ccn3": "840",
+        "cioc": "USA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "USD": {
+                "symbol": "$",
+                "name": "United States dollar"
+            }
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "201",
+                "202",
+                "203",
+                "205",
+                "206",
+                "207",
+                "208",
+                "209",
+                "210",
+                "212",
+                "213",
+                "214",
+                "215",
+                "216",
+                "217",
+                "218",
+                "219",
+                "220",
+                "224",
+                "225",
+                "227",
+                "228",
+                "229",
+                "231",
+                "234",
+                "239",
+                "240",
+                "248",
+                "251",
+                "252",
+                "253",
+                "254",
+                "256",
+                "260",
+                "262",
+                "267",
+                "269",
+                "270",
+                "272",
+                "274",
+                "276",
+                "281",
+                "283",
+                "301",
+                "302",
+                "303",
+                "304",
+                "305",
+                "307",
+                "308",
+                "309",
+                "310",
+                "312",
+                "313",
+                "314",
+                "315",
+                "316",
+                "317",
+                "318",
+                "319",
+                "320",
+                "321",
+                "323",
+                "325",
+                "327",
+                "330",
+                "331",
+                "334",
+                "336",
+                "337",
+                "339",
+                "346",
+                "347",
+                "351",
+                "352",
+                "360",
+                "361",
+                "364",
+                "380",
+                "385",
+                "386",
+                "401",
+                "402",
+                "404",
+                "405",
+                "406",
+                "407",
+                "408",
+                "409",
+                "410",
+                "412",
+                "413",
+                "414",
+                "415",
+                "417",
+                "419",
+                "423",
+                "424",
+                "425",
+                "430",
+                "432",
+                "434",
+                "435",
+                "440",
+                "442",
+                "443",
+                "447",
+                "458",
+                "463",
+                "464",
+                "469",
+                "470",
+                "475",
+                "478",
+                "479",
+                "480",
+                "484",
+                "501",
+                "502",
+                "503",
+                "504",
+                "505",
+                "507",
+                "508",
+                "509",
+                "510",
+                "512",
+                "513",
+                "515",
+                "516",
+                "517",
+                "518",
+                "520",
+                "530",
+                "531",
+                "534",
+                "539",
+                "540",
+                "541",
+                "551",
+                "559",
+                "561",
+                "562",
+                "563",
+                "564",
+                "567",
+                "570",
+                "571",
+                "573",
+                "574",
+                "575",
+                "580",
+                "585",
+                "586",
+                "601",
+                "602",
+                "603",
+                "605",
+                "606",
+                "607",
+                "608",
+                "609",
+                "610",
+                "612",
+                "614",
+                "615",
+                "616",
+                "617",
+                "618",
+                "619",
+                "620",
+                "623",
+                "626",
+                "628",
+                "629",
+                "630",
+                "631",
+                "636",
+                "641",
+                "646",
+                "650",
+                "651",
+                "657",
+                "660",
+                "661",
+                "662",
+                "667",
+                "669",
+                "678",
+                "681",
+                "682",
+                "701",
+                "702",
+                "703",
+                "704",
+                "706",
+                "707",
+                "708",
+                "712",
+                "713",
+                "714",
+                "715",
+                "716",
+                "717",
+                "718",
+                "719",
+                "720",
+                "724",
+                "725",
+                "727",
+                "730",
+                "731",
+                "732",
+                "734",
+                "737",
+                "740",
+                "743",
+                "747",
+                "754",
+                "757",
+                "760",
+                "762",
+                "763",
+                "765",
+                "769",
+                "770",
+                "772",
+                "773",
+                "774",
+                "775",
+                "779",
+                "781",
+                "785",
+                "786",
+                "801",
+                "802",
+                "803",
+                "804",
+                "805",
+                "806",
+                "808",
+                "810",
+                "812",
+                "813",
+                "814",
+                "815",
+                "816",
+                "817",
+                "818",
+                "828",
+                "830",
+                "831",
+                "832",
+                "843",
+                "845",
+                "847",
+                "848",
+                "850",
+                "854",
+                "856",
+                "857",
+                "858",
+                "859",
+                "860",
+                "862",
+                "863",
+                "864",
+                "865",
+                "870",
+                "872",
+                "878",
+                "901",
+                "903",
+                "904",
+                "906",
+                "907",
+                "908",
+                "909",
+                "910",
+                "912",
+                "913",
+                "914",
+                "915",
+                "916",
+                "917",
+                "918",
+                "919",
+                "920",
+                "925",
+                "928",
+                "929",
+                "930",
+                "931",
+                "934",
+                "936",
+                "937",
+                "938",
+                "940",
+                "941",
+                "947",
+                "949",
+                "951",
+                "952",
+                "954",
+                "956",
+                "959",
+                "970",
+                "971",
+                "972",
+                "973",
+                "975",
+                "978",
+                "979",
+                "980",
+                "984",
+                "985",
+                "989"
+            ]
+        },
+        "capital": [
+            "Washington, D.C."
+        ],
+        "altSpellings": [
+            "US",
+            "USA",
+            "United States of America"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "latlng": [
+            38,
+            -97
+        ],
+        "landlocked": false,
+        "borders": [
+            "CAN",
+            "MEX"
+        ],
+        "area": 9372610,
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "Américaine",
+                "m": "Américain"
+            }
+        },
+        "cca3": "USA",
+        "translations": {
+            "ara": {
+                "official": "الولايات المتحدة الامريكية",
+                "common": "الولايات المتحدة"
+            },
+            "bre": {
+                "official": "Stadoù-Unanet Amerika",
+                "common": "Stadoù-Unanet"
+            },
+            "ces": {
+                "official": "Spojené státy americké",
+                "common": "Spojené státy"
+            },
+            "cym": {
+                "official": "United States of America",
+                "common": "United States"
+            },
+            "deu": {
+                "official": "Vereinigte Staaten von Amerika",
+                "common": "Vereinigte Staaten"
+            },
+            "est": {
+                "official": "Ameerika Ühendriigid",
+                "common": "Ameerika Ühendriigid"
+            },
+            "fin": {
+                "official": "Amerikan yhdysvallat",
+                "common": "Yhdysvallat"
+            },
+            "fra": {
+                "official": "Les états-unis d'Amérique",
+                "common": "États-Unis"
+            },
+            "hrv": {
+                "official": "Sjedinjene Države Amerike",
+                "common": "Sjedinjene Američke Države"
+            },
+            "hun": {
+                "official": "Amerikai Egyesült Államok",
+                "common": "Amerikai Egyesült Államok"
+            },
+            "ind": {
+                "official": "Amerika Serikat",
+                "common": "Amerika"
+            },
+            "ita": {
+                "official": "Stati Uniti d'America",
+                "common": "Stati Uniti d'America"
+            },
+            "jpn": {
+                "official": "アメリカ合衆国",
+                "common": "アメリカ合衆国"
+            },
+            "kor": {
+                "official": "아메리카 합중국",
+                "common": "미국"
+            },
+            "nld": {
+                "official": "Verenigde Staten van Amerika",
+                "common": "Verenigde Staten"
+            },
+            "per": {
+                "official": "ایالات متحده آمریکا",
+                "common": "ایالات متحده آمریکا"
+            },
+            "pol": {
+                "official": "Stany Zjednoczone Ameryki",
+                "common": "Stany Zjednoczone"
+            },
+            "por": {
+                "official": "Estados Unidos da América",
+                "common": "Estados Unidos"
+            },
+            "rus": {
+                "official": "Соединенные Штаты Америки",
+                "common": "Соединённые Штаты Америки"
+            },
+            "slk": {
+                "official": "Spojené štáty Americké",
+                "common": "Spojené štáty americké"
+            },
+            "spa": {
+                "official": "Estados Unidos de América",
+                "common": "Estados Unidos"
+            },
+            "srp": {
+                "official": "Сједињене Америчке Државе",
+                "common": "Сједињене Америчке Државе"
+            },
+            "swe": {
+                "official": "Amerikas förenta stater",
+                "common": "USA"
+            },
+            "tur": {
+                "official": "Amerika Birleşik Devletleri",
+                "common": "Amerika Birleşik Devletleri"
+            },
+            "urd": {
+                "official": "ریاستہائے متحدہ امریکا",
+                "common": "ریاستہائے متحدہ"
+            },
+            "zho": {
+                "official": "美利坚合众国",
+                "common": "美国"
+            }
+        },
+        "flag": "🇺🇸",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+        },
+        "population": 329484123,
+        "gini": {
+            "2018": 41.4
+        },
+        "fifa": "USA",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-12:00",
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/us.png",
+            "svg": "https://flagcdn.com/us.svg",
+            "alt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/us.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg"
+        },
+        "startOfWeek": "sunday",
+        "capitalInfo": {
+            "latlng": [
+                38.89,
+                -77.05
+            ]
+        },
+        "postalCode": {
+            "format": "#####-####",
+            "regex": "^\\d{5}(-\\d{4})?$"
+        }
+    },
+    {
+        "name": {
+            "common": "Barbados",
+            "official": "Barbados",
+            "nativeName": {
+                "eng": {
+                    "official": "Barbados",
+                    "common": "Barbados"
+                }
+            }
+        },
+        "tld": [
+            ".bb"
+        ],
+        "cca2": "BB",
+        "ccn3": "052",
+        "cioc": "BAR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "BBD": {
+                "symbol": "$",
+                "name": "Barbadian dollar"
+            }
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "246"
+            ]
+        },
+        "capital": [
+            "Bridgetown"
+        ],
+        "altSpellings": [
+            "BB"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "latlng": [
+            13.16666666,
+            -59.53333333
+        ],
+        "landlocked": false,
+        "area": 430,
+        "demonyms": {
+            "eng": {
+                "f": "Barbadian",
+                "m": "Barbadian"
+            },
+            "fra": {
+                "f": "Barbadienne",
+                "m": "Barbadien"
+            }
+        },
+        "cca3": "BRB",
+        "translations": {
+            "ara": {
+                "official": "باربادوس",
+                "common": "باربادوس"
+            },
+            "bre": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "ces": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "cym": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "deu": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "est": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "fin": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "fra": {
+                "official": "Barbade",
+                "common": "Barbade"
+            },
+            "hrv": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "hun": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "ind": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "ita": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "jpn": {
+                "official": "バルバドス",
+                "common": "バルバドス"
+            },
+            "kor": {
+                "official": "바베이도스",
+                "common": "바베이도스"
+            },
+            "nld": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "per": {
+                "official": "باربادوس",
+                "common": "باربادوس"
+            },
+            "pol": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "por": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "rus": {
+                "official": "Барбадос",
+                "common": "Барбадос"
+            },
+            "slk": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "spa": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "srp": {
+                "official": "Барбадос",
+                "common": "Барбадос"
+            },
+            "swe": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "tur": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "urd": {
+                "official": "بارباڈوس",
+                "common": "بارباڈوس"
+            },
+            "zho": {
+                "official": "巴巴多斯",
+                "common": "巴巴多斯"
+            }
+        },
+        "flag": "🇧🇧",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/547511"
+        },
+        "population": 287371,
+        "fifa": "BRB",
+        "car": {
+            "signs": [
+                "BDS"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/bb.png",
+            "svg": "https://flagcdn.com/bb.svg",
+            "alt": "The flag of Barbados is composed of three equal vertical bands of ultramarine, gold and ultramarine. The head of a black trident is centered in the gold band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/bb.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/bb.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                13.1,
+                -59.62
+            ]
+        },
+        "postalCode": {
+            "format": "BB#####",
+            "regex": "^(?:BB)*(\\d{5})$"
+        }
+    }
+]

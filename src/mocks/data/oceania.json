@@ -1,0 +1,1082 @@
+[
+    {
+        "name": {
+            "common": "Australia",
+            "official": "Commonwealth of Australia",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Australia",
+                    "common": "Australia"
+                }
+            }
+        },
+        "tld": [
+            ".au"
+        ],
+        "cca2": "AU",
+        "ccn3": "036",
+        "cioc": "AUS",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "AUD": {
+                "symbol": "$",
+                "name": "Australian dollar"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "capital": [
+            "Canberra"
+        ],
+        "altSpellings": [
+            "AU"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "latlng": [
+            -27,
+            133
+        ],
+        "landlocked": false,
+        "area": 7692024,
+        "demonyms": {
+            "eng": {
+                "f": "Australian",
+                "m": "Australian"
+            },
+            "fra": {
+                "f": "Australienne",
+                "m": "Australien"
+            }
+        },
+        "cca3": "AUS",
+        "translations": {
+            "ara": {
+                "official": "كومونولث أستراليا",
+                "common": "أستراليا"
+            },
+            "bre": {
+                "official": "Kenglad Aostralia",
+                "common": "Aostralia"
+            },
+            "ces": {
+                "official": "Australské společenství",
+                "common": "Austrálie"
+            },
+            "cym": {
+                "official": "Cymanwlad Awstralia",
+                "common": "Awstralia"
+            },
+            "deu": {
+                "official": "Commonwealth Australien",
+                "common": "Australien"
+            },
+            "est": {
+                "official": "Austraalia Ühendus",
+                "common": "Austraalia"
+            },
+            "fin": {
+                "official": "Australian liittovaltio",
+                "common": "Australia"
+            },
+            "fra": {
+                "official": "Australie",
+                "common": "Australie"
+            },
+            "hrv": {
+                "official": "Commonwealth of Australia",
+                "common": "Australija"
+            },
+            "hun": {
+                "official": "Ausztrál Államszövetség",
+                "common": "Ausztrália"
+            },
+            "ind": {
+                "official": "Persemakmuran Australia",
+                "common": "Australia"
+            },
+            "ita": {
+                "official": "Commonwealth dell'Australia",
+                "common": "Australia"
+            },
+            "jpn": {
+                "official": "オーストラリア連邦",
+                "common": "オーストラリア"
+            },
+            "kor": {
+                "official": "오스트레일리아 연방",
+                "common": "호주"
+            },
+            "nld": {
+                "official": "Gemenebest van Australië",
+                "common": "Australië"
+            },
+            "per": {
+                "official": "قلمرو همسود استرالیا",
+                "common": "استرالیا"
+            },
+            "pol": {
+                "official": "Związek Australijski",
+                "common": "Australia"
+            },
+            "por": {
+                "official": "Comunidade da Austrália",
+                "common": "Austrália"
+            },
+            "rus": {
+                "official": "Содружество Австралии",
+                "common": "Австралия"
+            },
+            "slk": {
+                "official": "Austrálsky zväz",
+                "common": "Austrália"
+            },
+            "spa": {
+                "official": "Mancomunidad de Australia",
+                "common": "Australia"
+            },
+            "srp": {
+                "official": "Комонвелт Аустралија",
+                "common": "Аустралија"
+            },
+            "swe": {
+                "official": "Australiska statsförbundet",
+                "common": "Australien"
+            },
+            "tur": {
+                "official": "Avustralya Federal Devleti",
+                "common": "Avustralya"
+            },
+            "urd": {
+                "official": "دولتِ مشترکہ آسٹریلیا",
+                "common": "آسٹریلیا"
+            },
+            "zho": {
+                "official": "澳大利亚联邦",
+                "common": "澳大利亚"
+            }
+        },
+        "flag": "🇦🇺",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/80500"
+        },
+        "population": 25687041,
+        "gini": {
+            "2014": 34.4
+        },
+        "fifa": "AUS",
+        "car": {
+            "signs": [
+                "AUS"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:30",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:30",
+            "UTC+10:00",
+            "UTC+10:30",
+            "UTC+11:30"
+        ],
+        "continents": [
+            "Oceania"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/au.png",
+            "svg": "https://flagcdn.com/au.svg",
+            "alt": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/au.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/au.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -35.27,
+                149.13
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "New Zealand",
+            "official": "New Zealand",
+            "nativeName": {
+                "eng": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                },
+                "mri": {
+                    "official": "Aotearoa",
+                    "common": "Aotearoa"
+                },
+                "nzs": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                }
+            }
+        },
+        "tld": [
+            ".nz"
+        ],
+        "cca2": "NZ",
+        "ccn3": "554",
+        "cioc": "NZL",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "NZD": {
+                "symbol": "$",
+                "name": "New Zealand dollar"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "Wellington"
+        ],
+        "altSpellings": [
+            "NZ",
+            "Aotearoa"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "mri": "Māori",
+            "nzs": "New Zealand Sign Language"
+        },
+        "latlng": [
+            -41,
+            174
+        ],
+        "landlocked": false,
+        "area": 270467,
+        "demonyms": {
+            "eng": {
+                "f": "New Zealander",
+                "m": "New Zealander"
+            },
+            "fra": {
+                "f": "Neo-Zélandaise",
+                "m": "Neo-Zélandais"
+            }
+        },
+        "cca3": "NZL",
+        "translations": {
+            "ara": {
+                "official": "نيوزيلندا",
+                "common": "نيوزيلندا"
+            },
+            "bre": {
+                "official": "Zeland-Nevez",
+                "common": "Zeland-Nevez"
+            },
+            "ces": {
+                "official": "Nový Zéland",
+                "common": "Nový Zéland"
+            },
+            "cym": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            },
+            "deu": {
+                "official": "Neuseeland",
+                "common": "Neuseeland"
+            },
+            "est": {
+                "official": "Uus-Meremaa",
+                "common": "Uus-Meremaa"
+            },
+            "fin": {
+                "official": "Uusi-Seelanti",
+                "common": "Uusi-Seelanti"
+            },
+            "fra": {
+                "official": "Nouvelle-Zélande",
+                "common": "Nouvelle-Zélande"
+            },
+            "hrv": {
+                "official": "Novi Zeland",
+                "common": "Novi Zeland"
+            },
+            "hun": {
+                "official": "Új-Zéland",
+                "common": "Új-Zéland"
+            },
+            "ind": {
+                "official": "Selandia Baru",
+                "common": "Selandia Baru"
+            },
+            "ita": {
+                "official": "Nuova Zelanda",
+                "common": "Nuova Zelanda"
+            },
+            "jpn": {
+                "official": "ニュージーランド",
+                "common": "ニュージーランド"
+            },
+            "kor": {
+                "official": "뉴질랜드",
+                "common": "뉴질랜드"
+            },
+            "nld": {
+                "official": "Nieuw Zeeland",
+                "common": "Nieuw-Zeeland"
+            },
+            "per": {
+                "official": "نیوزیلند",
+                "common": "نیوزیلند"
+            },
+            "pol": {
+                "official": "Nowa Zelandia",
+                "common": "Nowa Zelandia"
+            },
+            "por": {
+                "official": "nova Zelândia",
+                "common": "Nova Zelândia"
+            },
+            "rus": {
+                "official": "Новая Зеландия",
+                "common": "Новая Зеландия"
+            },
+            "slk": {
+                "official": "Nový Zéland",
+                "common": "Nový Zéland"
+            },
+            "spa": {
+                "official": "nueva Zelanda",
+                "common": "Nueva Zelanda"
+            },
+            "srp": {
+                "official": "Нови Зеланд",
+                "common": "Нови Зеланд"
+            },
+            "swe": {
+                "official": "Nya Zeeland",
+                "common": "Nya Zeeland"
+            },
+            "tur": {
+                "official": "Yeni Zelanda",
+                "common": "Yeni Zelanda"
+            },
+            "urd": {
+                "official": "نیوزی لینڈ",
+                "common": "نیوزی لینڈ"
+            },
+            "zho": {
+                "official": "新西兰",
+                "common": "新西兰"
+            }
+        },
+        "flag": "🇳🇿",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
+        },
+        "population": 5084300,
+        "fifa": "NZL",
+        "car": {
+            "signs": [
+                "NZ"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ],
+        "continents": [
+            "Oceania"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/nz.png",
+            "svg": "https://flagcdn.com/nz.svg",
+            "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/nz.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -41.3,
+                174.78
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Samoa",
+            "official": "Independent State of Samoa",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent State of Samoa",
+                    "common": "Samoa"
+                },
+                "smo": {
+                    "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+                    "common": "Sāmoa"
+                }
+            }
+        },
+        "tld": [
+            ".ws"
+        ],
+        "cca2": "WS",
+        "ccn3": "882",
+        "cioc": "SAM",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "WST": {
+                "symbol": "T",
+                "name": "Samoan tālā"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "85"
+            ]
+        },
+        "capital": [
+            "Apia"
+        ],
+        "altSpellings": [
+            "WS",
+            "Independent State of Samoa",
+            "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "latlng": [
+            -13.58333333,
+            -172.33333333
+        ],
+        "landlocked": false,
+        "area": 2842,
+        "demonyms": {
+            "eng": {
+                "f": "Samoan",
+                "m": "Samoan"
+            },
+            "fra": {
+                "f": "Samoane",
+                "m": "Samoan"
+            }
+        },
+        "cca3": "WSM",
+        "translations": {
+            "ara": {
+                "official": "دولة ساموا المستقلة",
+                "common": "ساموا"
+            },
+            "bre": {
+                "official": "Stad Dizalc'h Samoa",
+                "common": "Samoa"
+            },
+            "ces": {
+                "official": "Nezávislý stát Samoa",
+                "common": "Samoa"
+            },
+            "cym": {
+                "official": "Independent State of Samoa",
+                "common": "Samoa"
+            },
+            "deu": {
+                "official": "Unabhängige Staat Samoa",
+                "common": "Samoa"
+            },
+            "est": {
+                "official": "Samoa Iseseisvusriik",
+                "common": "Samoa"
+            },
+            "fin": {
+                "official": "Samoan itsenäinen valtio",
+                "common": "Samoa"
+            },
+            "fra": {
+                "official": "Samoa",
+                "common": "Samoa"
+            },
+            "hrv": {
+                "official": "Nezavisna Država Samoa",
+                "common": "Samoa"
+            },
+            "hun": {
+                "official": "Szamoai Független Állam",
+                "common": "Szamoa"
+            },
+            "ind": {
+                "official": "Negara Merdeka Samoa",
+                "common": "Samoa"
+            },
+            "ita": {
+                "official": "Stato indipendente di Samoa",
+                "common": "Samoa"
+            },
+            "jpn": {
+                "official": "サモア独立国",
+                "common": "サモア"
+            },
+            "kor": {
+                "official": "사모아 독립국",
+                "common": "사모아"
+            },
+            "nld": {
+                "official": "Onafhankelijke Staat Samoa",
+                "common": "Samoa"
+            },
+            "per": {
+                "official": "ایالت مستقل ساموآ",
+                "common": "ساموآ"
+            },
+            "pol": {
+                "official": "Niezależne Państwo Samoa",
+                "common": "Samoa"
+            },
+            "por": {
+                "official": "Estado Independente de Samoa",
+                "common": "Samoa"
+            },
+            "rus": {
+                "official": "Независимое Государство Самоа",
+                "common": "Самоа"
+            },
+            "slk": {
+                "official": "Nezávislý štátSamoa",
+                "common": "Samoa"
+            },
+            "spa": {
+                "official": "Estado Independiente de Samoa",
+                "common": "Samoa"
+            },
+            "srp": {
+                "official": "Независна Држава Самоа",
+                "common": "Самоа"
+            },
+            "swe": {
+                "official": "Självständiga staten Samoa",
+                "common": "Samoa"
+            },
+            "tur": {
+                "official": "Bağımsız Samoa Devleti",
+                "common": "Bağımsız Samoa Devleti"
+            },
+            "urd": {
+                "official": "آزاد سلطنتِ ساموا",
+                "common": "سامووا"
+            },
+            "zho": {
+                "official": "萨摩亚独立国",
+                "common": "萨摩亚"
+            }
+        },
+        "flag": "🇼🇸",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1872673"
+        },
+        "population": 198410,
+        "gini": {
+            "2013": 38.7
+        },
+        "fifa": "SAM",
+        "car": {
+            "signs": [
+                "WS"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "continents": [
+            "Oceania"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ws.png",
+            "svg": "https://flagcdn.com/ws.svg",
+            "alt": "The flag of Samoa has a red field. A blue rectangle, bearing a representation of the Southern Cross made up of five large and one smaller five-pointed white stars, is superimposed in the canton."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ws.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ws.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -13.82,
+                -171.77
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Fiji",
+            "official": "Republic of Fiji",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Fiji",
+                    "common": "Fiji"
+                },
+                "fij": {
+                    "official": "Matanitu Tugalala o Viti",
+                    "common": "Viti"
+                },
+                "hif": {
+                    "official": "रिपब्लिक ऑफ फीजी",
+                    "common": "फिजी"
+                }
+            }
+        },
+        "tld": [
+            ".fj"
+        ],
+        "cca2": "FJ",
+        "ccn3": "242",
+        "cioc": "FIJ",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "FJD": {
+                "symbol": "$",
+                "name": "Fijian dollar"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "79"
+            ]
+        },
+        "capital": [
+            "Suva"
+        ],
+        "altSpellings": [
+            "FJ",
+            "Viti",
+            "Republic of Fiji",
+            "Matanitu ko Viti",
+            "Fijī Gaṇarājya"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "fij": "Fijian",
+            "hif": "Fiji Hindi"
+        },
+        "latlng": [
+            -17.7134,
+            178.065
+        ],
+        "landlocked": false,
+        "area": 18272,
+        "demonyms": {
+            "eng": {
+                "f": "Fijian",
+                "m": "Fijian"
+            },
+            "fra": {
+                "f": "Fidjienne",
+                "m": "Fidjien"
+            }
+        },
+        "cca3": "FJI",
+        "translations": {
+            "ara": {
+                "official": "جمهورية جزر فيجي",
+                "common": "فيجي"
+            },
+            "bre": {
+                "official": "Republik Fidji",
+                "common": "Fidji"
+            },
+            "ces": {
+                "official": "Republika Fidžijských ostrovů",
+                "common": "Fidži"
+            },
+            "cym": {
+                "official": "Republic of Fiji",
+                "common": "Fiji"
+            },
+            "deu": {
+                "official": "Republik Fidschi",
+                "common": "Fidschi"
+            },
+            "est": {
+                "official": "Fidži Vabariik",
+                "common": "Fidži"
+            },
+            "fin": {
+                "official": "Fidžin tasavalta",
+                "common": "Fidži"
+            },
+            "fra": {
+                "official": "République des Fidji",
+                "common": "Fidji"
+            },
+            "hrv": {
+                "official": "Republika Fidži",
+                "common": "Fiđi"
+            },
+            "hun": {
+                "official": "Fidzsi-szigeteki Köztársaság",
+                "common": "Fidzsi-szigetek"
+            },
+            "ind": {
+                "official": "Republik Fiji",
+                "common": "Fiji"
+            },
+            "ita": {
+                "official": "Repubblica di Figi",
+                "common": "Figi"
+            },
+            "jpn": {
+                "official": "フィジー共和国",
+                "common": "フィジー"
+            },
+            "kor": {
+                "official": "피지 공화국",
+                "common": "피지"
+            },
+            "nld": {
+                "official": "Republiek Fiji",
+                "common": "Fiji"
+            },
+            "per": {
+                "official": "جمهوری جزایر فیجی",
+                "common": "فیجی"
+            },
+            "pol": {
+                "official": "Republika Fidżi",
+                "common": "Fidżi"
+            },
+            "por": {
+                "official": "República de Fiji",
+                "common": "Fiji"
+            },
+            "rus": {
+                "official": "Республика Фиджи",
+                "common": "Фиджи"
+            },
+            "slk": {
+                "official": "Fiǆijská republika",
+                "common": "Fiǆi"
+            },
+            "spa": {
+                "official": "República de Fiji",
+                "common": "Fiyi"
+            },
+            "srp": {
+                "official": "Република Фиџи",
+                "common": "Фиџи"
+            },
+            "swe": {
+                "official": "Republiken Fiji",
+                "common": "Fiji"
+            },
+            "tur": {
+                "official": "Fiji Cumhuriyeti",
+                "common": "Fiji"
+            },
+            "urd": {
+                "official": "جمہوریہ فجی",
+                "common": "فجی"
+            },
+            "zho": {
+                "official": "斐济共和国",
+                "common": "斐济"
+            }
+        },
+        "flag": "🇫🇯",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+        },
+        "population": 896444,
+        "gini": {
+            "2013": 36.7
+        },
+        "fifa": "FIJ",
+        "car": {
+            "signs": [
+                "FJI"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "continents": [
+            "Oceania"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/fj.png",
+            "svg": "https://flagcdn.com/fj.svg",
+            "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -18.13,
+                178.42
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Christmas Island",
+            "official": "Territory of Christmas Island",
+            "nativeName": {
+                "eng": {
+                    "official": "Territory of Christmas Island",
+                    "common": "Christmas Island"
+                }
+            }
+        },
+        "tld": [
+            ".cx"
+        ],
+        "cca2": "CX",
+        "ccn3": "162",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "AUD": {
+                "symbol": "$",
+                "name": "Australian dollar"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "capital": [
+            "Flying Fish Cove"
+        ],
+        "altSpellings": [
+            "CX",
+            "Territory of Christmas Island"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "latlng": [
+            -10.5,
+            105.66666666
+        ],
+        "landlocked": false,
+        "area": 135,
+        "demonyms": {
+            "eng": {
+                "f": "Christmas Islander",
+                "m": "Christmas Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        },
+        "cca3": "CXR",
+        "translations": {
+            "ara": {
+                "official": "جزيرة كريسماس",
+                "common": "جزيرة كريسماس"
+            },
+            "bre": {
+                "official": "Tiriad Enez Christmas",
+                "common": "Enez Christmas"
+            },
+            "ces": {
+                "official": "Teritorium Vánočního ostrova",
+                "common": "Vánoční ostrov"
+            },
+            "cym": {
+                "official": "Tiriogaeth yr Ynys y Nadolig",
+                "common": "Ynys y Nadolig"
+            },
+            "deu": {
+                "official": "Gebiet der Weihnachtsinsel",
+                "common": "Weihnachtsinsel"
+            },
+            "est": {
+                "official": "Jõulusaare ala",
+                "common": "Jõulusaar"
+            },
+            "fin": {
+                "official": "Joulusaaren alue",
+                "common": "Joulusaari"
+            },
+            "fra": {
+                "official": "Territoire de l'île Christmas",
+                "common": "Île Christmas"
+            },
+            "hrv": {
+                "official": "Teritorij Božićni otok",
+                "common": "Božićni otok"
+            },
+            "hun": {
+                "official": "Karácsony-sziget",
+                "common": "Karácsony-sziget"
+            },
+            "ind": {
+                "official": "Wilayah Pulau Natal",
+                "common": "Pulau Natal"
+            },
+            "ita": {
+                "official": "Territorio di Christmas Island",
+                "common": "Isola di Natale"
+            },
+            "jpn": {
+                "official": "クリスマス島の領土",
+                "common": "クリスマス島"
+            },
+            "kor": {
+                "official": "크리스마스 섬",
+                "common": "크리스마스 섬"
+            },
+            "nld": {
+                "official": "Grondgebied van Christmas Island",
+                "common": "Christmaseiland"
+            },
+            "per": {
+                "official": "جزیرهٔ کریسمس",
+                "common": "جزیرهٔ کریسمس"
+            },
+            "pol": {
+                "official": "Wyspa Bożego Narodzenia",
+                "common": "Wyspa Bożego Narodzenia"
+            },
+            "por": {
+                "official": "Território da Ilha Christmas",
+                "common": "Ilha do Natal"
+            },
+            "rus": {
+                "official": "Территория острова Рождества",
+                "common": "Остров Рождества"
+            },
+            "slk": {
+                "official": "Teritórium Vianočného ostrova",
+                "common": "Vianočnú ostrov"
+            },
+            "spa": {
+                "official": "Territorio de la Isla de Navidad",
+                "common": "Isla de Navidad"
+            },
+            "srp": {
+                "official": "Божићно Острво",
+                "common": "Божићно Острво"
+            },
+            "swe": {
+                "official": "Julön",
+                "common": "Julön"
+            },
+            "tur": {
+                "official": "Christmas Adası",
+                "common": "Christmas Adası"
+            },
+            "urd": {
+                "official": "ریاستِ جزیرہ کرسمس",
+                "common": "جزیرہ کرسمس"
+            },
+            "zho": {
+                "official": "圣诞岛",
+                "common": "圣诞岛"
+            }
+        },
+        "flag": "🇨🇽",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/6365444"
+        },
+        "population": 2072,
+        "car": {
+            "signs": [
+                "AUS"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cx.png",
+            "svg": "https://flagcdn.com/cx.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cx.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cx.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -10.42,
+                105.68
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    }
+]

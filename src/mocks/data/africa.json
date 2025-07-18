@@ -1,0 +1,1203 @@
+[
+    {
+        "name": {
+            "common": "Zimbabwe",
+            "official": "Republic of Zimbabwe",
+            "nativeName": {
+                "bwg": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "eng": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "kck": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "khi": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "ndc": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "nde": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "nya": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "sna": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "sot": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "toi": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "tsn": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "tso": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "ven": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "xho": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "zib": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                }
+            }
+        },
+        "tld": [
+            ".zw"
+        ],
+        "cca2": "ZW",
+        "ccn3": "716",
+        "cioc": "ZIM",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "ZWL": {
+                "symbol": "$",
+                "name": "Zimbabwean dollar"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "63"
+            ]
+        },
+        "capital": [
+            "Harare"
+        ],
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "bwg": "Chibarwe",
+            "eng": "English",
+            "kck": "Kalanga",
+            "khi": "Khoisan",
+            "ndc": "Ndau",
+            "nde": "Northern Ndebele",
+            "nya": "Chewa",
+            "sna": "Shona",
+            "sot": "Sotho",
+            "toi": "Tonga",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zib": "Zimbabwean Sign Language"
+        },
+        "latlng": [
+            -20,
+            30
+        ],
+        "landlocked": true,
+        "borders": [
+            "BWA",
+            "MOZ",
+            "ZAF",
+            "ZMB"
+        ],
+        "area": 390757,
+        "demonyms": {
+            "eng": {
+                "f": "Zimbabwean",
+                "m": "Zimbabwean"
+            },
+            "fra": {
+                "f": "Zimbabwéenne",
+                "m": "Zimbabwéen"
+            }
+        },
+        "cca3": "ZWE",
+        "translations": {
+            "ara": {
+                "official": "جمهورية زيمبابوي",
+                "common": "زيمبابوي"
+            },
+            "bre": {
+                "official": "Republik Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ces": {
+                "official": "Zimbabwská republika",
+                "common": "Zimbabwe"
+            },
+            "cym": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "deu": {
+                "official": "Republik Simbabwe",
+                "common": "Simbabwe"
+            },
+            "est": {
+                "official": "Zimbabwe Vabariik",
+                "common": "Zimbabwe"
+            },
+            "fin": {
+                "official": "Zimbabwen tasavalta",
+                "common": "Zimbabwe"
+            },
+            "fra": {
+                "official": "République du Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "hrv": {
+                "official": "Republika Zimbabve",
+                "common": "Zimbabve"
+            },
+            "hun": {
+                "official": "Zimbabwei Köztársaság",
+                "common": "Zimbabwe"
+            },
+            "ind": {
+                "official": "Republik Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ita": {
+                "official": "Repubblica dello Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "jpn": {
+                "official": "ジンバブエ共和国",
+                "common": "ジンバブエ"
+            },
+            "kor": {
+                "official": "짐바브웨 공화국",
+                "common": "짐바브웨"
+            },
+            "nld": {
+                "official": "Republiek Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "per": {
+                "official": "جمهوری زیمبابوه",
+                "common": "زیمبابوه"
+            },
+            "pol": {
+                "official": "Republika Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "por": {
+                "official": "República do Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "rus": {
+                "official": "Республика Зимбабве",
+                "common": "Зимбабве"
+            },
+            "slk": {
+                "official": "Zimbabwianska republika",
+                "common": "Zimbabwe"
+            },
+            "spa": {
+                "official": "República de Zimbabue",
+                "common": "Zimbabue"
+            },
+            "srp": {
+                "official": "Република Зимбабве",
+                "common": "Зимбабве"
+            },
+            "swe": {
+                "official": "Republiken Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tur": {
+                "official": "Zimbabve Cumhuriyeti",
+                "common": "Zimbabve"
+            },
+            "urd": {
+                "official": "جمہوریہ زمبابوے",
+                "common": "زمبابوے"
+            },
+            "zho": {
+                "official": "津巴布韦共和国",
+                "common": "津巴布韦"
+            }
+        },
+        "flag": "🇿🇼",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
+        },
+        "population": 14862927,
+        "gini": {
+            "2019": 50.3
+        },
+        "fifa": "ZIM",
+        "car": {
+            "signs": [
+                "ZW"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/zw.png",
+            "svg": "https://flagcdn.com/zw.svg",
+            "alt": "The flag of Zimbabwe is composed of seven equal horizontal bands of green, yellow, red, black, red, yellow and green, with a white isosceles triangle superimposed on the hoist side of the field. This triangle is edged in black, spans about one-fourth the width of the field and has its base on the hoist end. A yellow Zimbabwe bird superimposed on a five-pointed red star is centered in the triangle."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/zw.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -17.82,
+                31.03
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Namibia",
+            "official": "Republic of Namibia",
+            "nativeName": {
+                "afr": {
+                    "official": "Republiek van Namibië",
+                    "common": "Namibië"
+                },
+                "deu": {
+                    "official": "Republik Namibia",
+                    "common": "Namibia"
+                },
+                "eng": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "her": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "hgm": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "kwn": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "loz": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "ndo": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "tsn": {
+                    "official": "Lefatshe la Namibia",
+                    "common": "Namibia"
+                }
+            }
+        },
+        "tld": [
+            ".na"
+        ],
+        "cca2": "NA",
+        "ccn3": "516",
+        "cioc": "NAM",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "NAD": {
+                "symbol": "$",
+                "name": "Namibian dollar"
+            },
+            "ZAR": {
+                "symbol": "R",
+                "name": "South African rand"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "64"
+            ]
+        },
+        "capital": [
+            "Windhoek"
+        ],
+        "altSpellings": [
+            "NA",
+            "Namibië",
+            "Republic of Namibia"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "afr": "Afrikaans",
+            "deu": "German",
+            "eng": "English",
+            "her": "Herero",
+            "hgm": "Khoekhoe",
+            "kwn": "Kwangali",
+            "loz": "Lozi",
+            "ndo": "Ndonga",
+            "tsn": "Tswana"
+        },
+        "latlng": [
+            -22,
+            17
+        ],
+        "landlocked": false,
+        "borders": [
+            "AGO",
+            "BWA",
+            "ZAF",
+            "ZMB"
+        ],
+        "area": 825615,
+        "demonyms": {
+            "eng": {
+                "f": "Namibian",
+                "m": "Namibian"
+            },
+            "fra": {
+                "f": "Namibienne",
+                "m": "Namibien"
+            }
+        },
+        "cca3": "NAM",
+        "translations": {
+            "ara": {
+                "official": "جمهورية ناميبيا",
+                "common": "ناميبيا"
+            },
+            "bre": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
+            "ces": {
+                "official": "Namibijská republika",
+                "common": "Namibie"
+            },
+            "cym": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "deu": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
+            "est": {
+                "official": "Namiibia Vabariik",
+                "common": "Namiibia"
+            },
+            "fin": {
+                "official": "Namibian tasavalta",
+                "common": "Namibia"
+            },
+            "fra": {
+                "official": "République de Namibie",
+                "common": "Namibie"
+            },
+            "hrv": {
+                "official": "Republika Namibija",
+                "common": "Namibija"
+            },
+            "hun": {
+                "official": "Namíbiai Köztársaság",
+                "common": "Namíbia"
+            },
+            "ind": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
+            "ita": {
+                "official": "Repubblica di Namibia",
+                "common": "Namibia"
+            },
+            "jpn": {
+                "official": "ナミビア共和国",
+                "common": "ナミビア"
+            },
+            "kor": {
+                "official": "나미비아 공화국",
+                "common": "나미비아"
+            },
+            "nld": {
+                "official": "Republiek Namibië",
+                "common": "Namibië"
+            },
+            "per": {
+                "official": "جمهوری نامیبیا",
+                "common": "نامیبیا"
+            },
+            "pol": {
+                "official": "Republika Namibii",
+                "common": "Namibia"
+            },
+            "por": {
+                "official": "República da Namíbia",
+                "common": "Namíbia"
+            },
+            "rus": {
+                "official": "Республика Намибия",
+                "common": "Намибия"
+            },
+            "slk": {
+                "official": "Namíbijská republika",
+                "common": "Namíbia"
+            },
+            "spa": {
+                "official": "República de Namibia",
+                "common": "Namibia"
+            },
+            "srp": {
+                "official": "Република Намибија",
+                "common": "Намибија"
+            },
+            "swe": {
+                "official": "Republiken Namibia",
+                "common": "Namibia"
+            },
+            "tur": {
+                "official": "Namibya Cumhuriyeti",
+                "common": "Namibya"
+            },
+            "urd": {
+                "official": "جمہوریہ نمیبیا",
+                "common": "نمیبیا"
+            },
+            "zho": {
+                "official": "纳米比亚共和国",
+                "common": "纳米比亚"
+            }
+        },
+        "flag": "🇳🇦",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/195266"
+        },
+        "population": 2540916,
+        "gini": {
+            "2015": 59.1
+        },
+        "fifa": "NAM",
+        "car": {
+            "signs": [
+                "NAM"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/na.png",
+            "svg": "https://flagcdn.com/na.svg",
+            "alt": "The flag of Namibia features a white-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. A gold sun with twelve triangular rays is situated on the hoist side of the upper triangle."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/na.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/na.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -22.57,
+                17.08
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Botswana",
+            "official": "Republic of Botswana",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Botswana",
+                    "common": "Botswana"
+                },
+                "tsn": {
+                    "official": "Lefatshe la Botswana",
+                    "common": "Botswana"
+                }
+            }
+        },
+        "tld": [
+            ".bw"
+        ],
+        "cca2": "BW",
+        "ccn3": "072",
+        "cioc": "BOT",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "BWP": {
+                "symbol": "P",
+                "name": "Botswana pula"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "67"
+            ]
+        },
+        "capital": [
+            "Gaborone"
+        ],
+        "altSpellings": [
+            "BW",
+            "Republic of Botswana",
+            "Lefatshe la Botswana"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "tsn": "Tswana"
+        },
+        "latlng": [
+            -22,
+            24
+        ],
+        "landlocked": true,
+        "borders": [
+            "NAM",
+            "ZAF",
+            "ZMB",
+            "ZWE"
+        ],
+        "area": 582000,
+        "demonyms": {
+            "eng": {
+                "f": "Motswana",
+                "m": "Motswana"
+            },
+            "fra": {
+                "f": "Botswanaise",
+                "m": "Botswanais"
+            }
+        },
+        "cca3": "BWA",
+        "translations": {
+            "ara": {
+                "official": "جمهورية بوتسوانا",
+                "common": "بوتسوانا"
+            },
+            "bre": {
+                "official": "Republik Botswana",
+                "common": "Botswana"
+            },
+            "ces": {
+                "official": "Botswanská republika",
+                "common": "Botswana"
+            },
+            "cym": {
+                "official": "Republic of Botswana",
+                "common": "Botswana"
+            },
+            "deu": {
+                "official": "Republik Botsuana",
+                "common": "Botswana"
+            },
+            "est": {
+                "official": "Botswana Vabariik",
+                "common": "Botswana"
+            },
+            "fin": {
+                "official": "Botswanan tasavalta",
+                "common": "Botswana"
+            },
+            "fra": {
+                "official": "République du Botswana",
+                "common": "Botswana"
+            },
+            "hrv": {
+                "official": "Republika Bocvana",
+                "common": "Bocvana"
+            },
+            "hun": {
+                "official": "Botswanai Köztársaság",
+                "common": "Botswana"
+            },
+            "ind": {
+                "official": "Republik Botswana",
+                "common": "Botswana"
+            },
+            "ita": {
+                "official": "Repubblica del Botswana",
+                "common": "Botswana"
+            },
+            "jpn": {
+                "official": "ボツワナ共和国",
+                "common": "ボツワナ"
+            },
+            "kor": {
+                "official": "보츠와나 공화국",
+                "common": "보츠와나"
+            },
+            "nld": {
+                "official": "Republiek Botswana",
+                "common": "Botswana"
+            },
+            "per": {
+                "official": "جمهوری بوتسوانا",
+                "common": "بوتسوانا"
+            },
+            "pol": {
+                "official": "Republika Botswany",
+                "common": "Botswana"
+            },
+            "por": {
+                "official": "República do Botswana",
+                "common": "Botswana"
+            },
+            "rus": {
+                "official": "Республика Ботсвана",
+                "common": "Ботсвана"
+            },
+            "slk": {
+                "official": "Botswanská republika",
+                "common": "Botswana"
+            },
+            "spa": {
+                "official": "República de Botswana",
+                "common": "Botswana"
+            },
+            "srp": {
+                "official": "Република Боцвана",
+                "common": "Боцвана"
+            },
+            "swe": {
+                "official": "Republiken Botswana",
+                "common": "Botswana"
+            },
+            "tur": {
+                "official": "Botsvana Cumhuriyeti",
+                "common": "Botsvana"
+            },
+            "urd": {
+                "official": "جمہوریہ بوٹسوانا",
+                "common": "بوٹسوانا"
+            },
+            "zho": {
+                "official": "博茨瓦纳共和国",
+                "common": "博茨瓦纳"
+            }
+        },
+        "flag": "🇧🇼",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+        },
+        "population": 2351625,
+        "gini": {
+            "2015": 53.3
+        },
+        "fifa": "BOT",
+        "car": {
+            "signs": [
+                "BW"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/bw.png",
+            "svg": "https://flagcdn.com/bw.svg",
+            "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -24.63,
+                25.9
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Ghana",
+            "official": "Republic of Ghana",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ghana",
+                    "common": "Ghana"
+                }
+            }
+        },
+        "tld": [
+            ".gh"
+        ],
+        "cca2": "GH",
+        "ccn3": "288",
+        "cioc": "GHA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "GHS": {
+                "symbol": "₵",
+                "name": "Ghanaian cedi"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "33"
+            ]
+        },
+        "capital": [
+            "Accra"
+        ],
+        "altSpellings": [
+            "GH"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "latlng": [
+            8,
+            -2
+        ],
+        "landlocked": false,
+        "borders": [
+            "BFA",
+            "CIV",
+            "TGO"
+        ],
+        "area": 238533,
+        "demonyms": {
+            "eng": {
+                "f": "Ghanaian",
+                "m": "Ghanaian"
+            },
+            "fra": {
+                "f": "Ghanéenne",
+                "m": "Ghanéen"
+            }
+        },
+        "cca3": "GHA",
+        "translations": {
+            "ara": {
+                "official": "جمهورية غانا",
+                "common": "غانا"
+            },
+            "bre": {
+                "official": "Republik Ghana",
+                "common": "Ghana"
+            },
+            "ces": {
+                "official": "Ghanská republika",
+                "common": "Ghana"
+            },
+            "cym": {
+                "official": "Republic of Ghana",
+                "common": "Ghana"
+            },
+            "deu": {
+                "official": "Republik Ghana",
+                "common": "Ghana"
+            },
+            "est": {
+                "official": "Ghana Vabariik",
+                "common": "Ghana"
+            },
+            "fin": {
+                "official": "Ghanan tasavalta",
+                "common": "Ghana"
+            },
+            "fra": {
+                "official": "République du Ghana",
+                "common": "Ghana"
+            },
+            "hrv": {
+                "official": "Republika Gana",
+                "common": "Gana"
+            },
+            "hun": {
+                "official": "Ghánai Köztársaság",
+                "common": "Ghána"
+            },
+            "ind": {
+                "official": "Republik Ghana",
+                "common": "Ghana"
+            },
+            "ita": {
+                "official": "Repubblica del Ghana",
+                "common": "Ghana"
+            },
+            "jpn": {
+                "official": "ガーナ共和国",
+                "common": "ガーナ"
+            },
+            "kor": {
+                "official": "가나 공화국",
+                "common": "가나"
+            },
+            "nld": {
+                "official": "Republiek Ghana",
+                "common": "Ghana"
+            },
+            "per": {
+                "official": "جمهوری غنا",
+                "common": "غنا"
+            },
+            "pol": {
+                "official": "Republika Ghany",
+                "common": "Ghana"
+            },
+            "por": {
+                "official": "República do Gana",
+                "common": "Gana"
+            },
+            "rus": {
+                "official": "Республика Гана",
+                "common": "Гана"
+            },
+            "slk": {
+                "official": "Ghanská republika",
+                "common": "Ghana"
+            },
+            "spa": {
+                "official": "República de Ghana",
+                "common": "Ghana"
+            },
+            "srp": {
+                "official": "Република Гана",
+                "common": "Гана"
+            },
+            "swe": {
+                "official": "Republiken Ghana",
+                "common": "Ghana"
+            },
+            "tur": {
+                "official": "Gana Cumhuriyeti",
+                "common": "Gana"
+            },
+            "urd": {
+                "official": "جمہوریہ گھانا",
+                "common": "گھانا"
+            },
+            "zho": {
+                "official": "加纳共和国",
+                "common": "加纳"
+            }
+        },
+        "flag": "🇬🇭",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+        },
+        "population": 31072945,
+        "gini": {
+            "2016": 43.5
+        },
+        "fifa": "GHA",
+        "car": {
+            "signs": [
+                "GH"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gh.png",
+            "svg": "https://flagcdn.com/gh.svg",
+            "alt": "The flag of Ghana is composed of three equal horizontal bands of red, gold and green, with a five-pointed black star centered in the gold band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                5.55,
+                -0.22
+            ]
+        },
+        "postalCode": {
+            "format": null,
+            "regex": null
+        }
+    },
+    {
+        "name": {
+            "common": "Senegal",
+            "official": "Republic of Senegal",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Sénégal",
+                    "common": "Sénégal"
+                }
+            }
+        },
+        "tld": [
+            ".sn"
+        ],
+        "cca2": "SN",
+        "ccn3": "686",
+        "cioc": "SEN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "XOF": {
+                "symbol": "Fr",
+                "name": "West African CFA franc"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "21"
+            ]
+        },
+        "capital": [
+            "Dakar"
+        ],
+        "altSpellings": [
+            "SN",
+            "Republic of Senegal",
+            "République du Sénégal"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "latlng": [
+            14,
+            -14
+        ],
+        "landlocked": false,
+        "borders": [
+            "GMB",
+            "GIN",
+            "GNB",
+            "MLI",
+            "MRT"
+        ],
+        "area": 196722,
+        "demonyms": {
+            "eng": {
+                "f": "Senegalese",
+                "m": "Senegalese"
+            },
+            "fra": {
+                "f": "Sénégalaise",
+                "m": "Sénégalais"
+            }
+        },
+        "cca3": "SEN",
+        "translations": {
+            "ara": {
+                "official": "جمهورية السنغال",
+                "common": "السنغال"
+            },
+            "bre": {
+                "official": "Republik Senegal",
+                "common": "Senegal"
+            },
+            "ces": {
+                "official": "Senegalská republika",
+                "common": "Senegal"
+            },
+            "cym": {
+                "official": "Republic of Senegal",
+                "common": "Senegal"
+            },
+            "deu": {
+                "official": "Republik Senegal",
+                "common": "Senegal"
+            },
+            "est": {
+                "official": "Senegali Vabariik",
+                "common": "Senegal"
+            },
+            "fin": {
+                "official": "Senegalin tasavalta",
+                "common": "Senegal"
+            },
+            "fra": {
+                "official": "République du Sénégal",
+                "common": "Sénégal"
+            },
+            "hrv": {
+                "official": "Republika Senegal",
+                "common": "Senegal"
+            },
+            "hun": {
+                "official": "Szenegáli Köztársaság",
+                "common": "Szenegál"
+            },
+            "ind": {
+                "official": "Republik Senegal",
+                "common": "Senegal"
+            },
+            "ita": {
+                "official": "Repubblica del Senegal",
+                "common": "Senegal"
+            },
+            "jpn": {
+                "official": "セネガル共和国",
+                "common": "セネガル"
+            },
+            "kor": {
+                "official": "세네갈 공화국",
+                "common": "세네갈"
+            },
+            "nld": {
+                "official": "Republiek Senegal",
+                "common": "Senegal"
+            },
+            "per": {
+                "official": "جمهوری سنگال",
+                "common": "سنگال"
+            },
+            "pol": {
+                "official": "Senegal",
+                "common": "Senegal"
+            },
+            "por": {
+                "official": "República do Senegal",
+                "common": "Senegal"
+            },
+            "rus": {
+                "official": "Республика Сенегал",
+                "common": "Сенегал"
+            },
+            "slk": {
+                "official": "Senegalská republika",
+                "common": "Senegal"
+            },
+            "spa": {
+                "official": "República de Senegal",
+                "common": "Senegal"
+            },
+            "srp": {
+                "official": "Република Сенегал",
+                "common": "Сенегал"
+            },
+            "swe": {
+                "official": "Republiken Senegal",
+                "common": "Senegal"
+            },
+            "tur": {
+                "official": "Senegal Cumhuriyeti",
+                "common": "Senegal"
+            },
+            "urd": {
+                "official": "جمہوریہ سینیگال",
+                "common": "سینیگال"
+            },
+            "zho": {
+                "official": "塞内加尔共和国",
+                "common": "塞内加尔"
+            }
+        },
+        "flag": "🇸🇳",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+        },
+        "population": 16743930,
+        "gini": {
+            "2011": 40.3
+        },
+        "fifa": "SEN",
+        "car": {
+            "signs": [
+                "SN"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/sn.png",
+            "svg": "https://flagcdn.com/sn.svg",
+            "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                14.73,
+                -17.63
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    }
+]
