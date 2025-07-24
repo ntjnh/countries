@@ -1,9 +1,9 @@
 import { useRef } from 'react'
 import { createSearchParams, useNavigate } from 'react-router'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faMagnifyingGlass, faChevronDown } from '@fortawesome/free-solid-svg-icons'
+import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons'
 
-export default function Form({ isDark, onChangeValue, onRegionSelect }) {
+export default function Form({ isDark, onChangeValue }) {
     const lightClasses = {
         inputIcon: 'text-neutral-450',
         input: 'shadow-md shadow-neutral-200/60 text-neutral-450',
@@ -36,7 +36,7 @@ export default function Form({ isDark, onChangeValue, onRegionSelect }) {
     }
 
     return (
-        <div className="md:flex md:items-center md:justify-between mb-7 lg:mb-12">
+        <div className="md:flex md:items-center md:justify-end mb-7 lg:mb-12">
             <form
                 onSubmit={handleSubmit}
                 className="country-search mb-9 md:mb-0 relative md:w-[37.5%]"
@@ -53,26 +53,6 @@ export default function Form({ isDark, onChangeValue, onRegionSelect }) {
                     onChange={onChangeValue}
                 />
             </form>
-
-            <div className="relative w-[200px]">
-                <select 
-                    className={`appearance-none rounded-lg pl-6 pr-8 py-[17px] lg:py-5 text-xs lg:text-sm w-full ${modeClasses.select}`}
-                    name="regionFilter" 
-                    id="regionFilter"
-                    onChange={onRegionSelect}
-                >
-                    <option className="text-sm" value="all">Filter by Region</option>
-                    <option className="text-sm" value="africa">Africa</option>
-                    <option className="text-sm" value="americas">Americas</option>
-                    <option className="text-sm" value="asia">Asia</option>
-                    <option className="text-sm" value="europe">Europe</option>
-                    <option className="text-sm" value="oceania">Oceania</option>
-                </select>
-                <FontAwesomeIcon 
-                    className={`absolute right-4 text-xs top-5 z-10 ${modeClasses.selectIcon}`} 
-                    icon={faChevronDown}
-                />
-            </div>
         </div>
     )
 }

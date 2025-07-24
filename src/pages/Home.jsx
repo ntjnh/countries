@@ -31,7 +31,6 @@ export default function Home() {
                 // isDark={isDark}
                 // searchTerm={searchTerm}
                 // onChangeValue={newVal => setSearchTerm(newVal.target.value)}
-                // onRegionSelect={newRegion => regionFilter(newRegion.target.value)}
             />
 
             <section className="md:grid gap-12 md:gap-4 md:grid-cols-2 lg:grid-cols-4 mx-auto w-[78%] md:w-full">
