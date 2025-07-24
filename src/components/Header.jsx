@@ -1,3 +1,4 @@
+import { NavLink, useParams } from 'react-router'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMoon } from '@fortawesome/free-regular-svg-icons'
 import { faSun } from '@fortawesome/free-solid-svg-icons'
@@ -7,6 +8,7 @@ export default function Header({ isDark, modeToggle }) {
         light: 'bg-white shadow-md shadow-neutral-200/60 text-grey-925',
         dark: 'bg-slate-750 text-white'
     }
+    const { continent } = useParams()
 
     const modeClasses = isDark ? classes.dark : classes.light 
     const buttonText = isDark ? 'Light Mode' : 'Dark Mode' 
@@ -31,6 +33,29 @@ export default function Header({ isDark, modeToggle }) {
 
                     {buttonText}
                 </button>
+            </div>
+
+            <div className="container flex items-center justify-between mx-auto">
+                <ul className="-ml-6 mt-4">
+                    <li className="inline-block px-6">
+                        <NavLink to={`/`}>All</NavLink>
+                    </li>
+                    <li className="inline-block px-6">
+                        <NavLink to={`/continents/africa`}>Africa</NavLink>
+                    </li>
+                    <li className="inline-block px-6">
+                        <NavLink to={`/continents/americas`}>Americas</NavLink>
+                    </li>
+                    <li className="inline-block px-6">
+                        <NavLink to={`/continents/asia`}>Asia</NavLink>
+                    </li>
+                    <li className="inline-block px-6">
+                        <NavLink to={`/continents/europe`}>Europe</NavLink>
+                    </li>
+                    <li className="inline-block px-6">
+                        <NavLink to={`/continents/oceania`}>Oceania</NavLink>
+                    </li>
+                </ul>
             </div>
         </header>
     )

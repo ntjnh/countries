@@ -12,6 +12,7 @@ ReactDOM.createRoot(root).render(
         <Routes>
             <Route element={<App />}>
                 <Route index element={<Home />} />
+                <Route path="/continents/:continent" element={<Home />} />
                 <Route path=":slug" element={<Country />} />
             </Route>
         </Routes>

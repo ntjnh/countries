@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react'
-import Form from './components/Form'
 import Country from './components/Country'
 import Attr from './components/Attr'
 import Header from './components/Header'
+import { Outlet } from 'react-router'
 
 function App() {
     const [countries, setCountries] = useState([])
@@ -61,37 +61,7 @@ function App() {
             />
 
             <main className={`pb-14 pt-5 px-4 lg:pt-12 ${modeClasses}`}>
-                <div className="container mx-auto relative">
-                    <Form
-                        isDark={isDark}
-                        searchTerm={searchTerm}
-                        onChangeValue={newVal => setSearchTerm(newVal.target.value)}
-                        onRegionSelect={newRegion => regionFilter(newRegion.target.value)}
-                    />
-
-                    <section className="md:grid md:gap-16 md:grid-cols-2 lg:grid-cols-4 mx-auto w-[78%] md:w-full">
-                        {
-                            filteredCountries.map(country => {
-                                const { flags, name: { common }, population, region, capital } = country
-                                const slug = common.toLowerCase().split(' ').join('-')
-
-                                return (
-                                    <a href={`/${slug}`} key={slug}>
-                                        <Country
-                                            slug={slug}
-                                            flag={flags}
-                                            name={common}
-                                            population={population.toLocaleString()}
-                                            region={region}
-                                            capital={capital}
-                                            isDark={isDark}
-                                        />
-                                    </a>
-                                )
-                            })
-                        }
-                    </section>
-                </div>
+                <Outlet />
             </main>
 
             <Attr isDark={isDark} />

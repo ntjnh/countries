@@ -1,3 +1,5 @@
+import { useRef } from 'react'
+import { createSearchParams, useNavigate } from 'react-router'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMagnifyingGlass, faChevronDown } from '@fortawesome/free-solid-svg-icons'
 
@@ -17,9 +19,28 @@ export default function Form({ isDark, onChangeValue, onRegionSelect }) {
 
     const modeClasses = isDark ? darkClasses : lightClasses
 
+    const navigate = useNavigate()
+
+    const inputRef = useRef()
+
+    const handleSubmit = e => {
+        e.preventDefault()
+
+        const searchQuery = {
+            country: inputRef.current.value
+        }
+
+        const query = createSearchParams(searchQuery)
+
+        navigate(`/?${query}`)
+    }
+
     return (
         <div className="md:flex md:items-center md:justify-between mb-7 lg:mb-12">
-            <div className="country-search mb-9 md:mb-0 relative md:w-[37.5%]">
+            <form
+                onSubmit={handleSubmit}
+                className="country-search mb-9 md:mb-0 relative md:w-[37.5%]"
+            >
                 <FontAwesomeIcon 
                     className={`absolute left-7 text-md top-5 z-10 ${modeClasses.inputIcon}`} 
                     icon={faMagnifyingGlass}
@@ -27,12 +48,11 @@ export default function Form({ isDark, onChangeValue, onRegionSelect }) {
                 <input 
                     className={`font-light pl-16 pr-8 py-[18px] rounded-lg text-sm w-full ${modeClasses.input}`}
                     type="text" 
-                    name="countrySearch" 
-                    id="countrySearch" 
+                    ref={inputRef}
                     placeholder="Search for a country..." 
                     onChange={onChangeValue}
                 />
-            </div>
+            </form>
 
             <div className="relative w-[200px]">
                 <select 
