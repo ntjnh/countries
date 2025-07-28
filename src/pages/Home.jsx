@@ -25,6 +25,7 @@ export default function Home() {
         })
     }
 
+
     return (
         <div className="container mx-auto relative">
             <Form
@@ -40,7 +41,7 @@ export default function Home() {
                         const slug = cca3.toLowerCase()
 
                         return (
-                            <Link className="block hover:cursor-pointer" to={`/${slug}`} key={slug}>
+                            <Link className="block hover:cursor-pointer" to={`/country/${slug}`} key={slug}>
                                 <Country
                                     flag={flags}
                                     name={common}

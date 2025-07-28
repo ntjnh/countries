@@ -15,7 +15,6 @@ function App() {
         oceania: countries.filter(c => c.region.toLowerCase() === 'oceania')
     }
     const [isDark, setIsDark] = useState(false)
-    const [searchTerm, setSearchTerm] = useState('')
 
     function handleClick() {
         setIsDark(prev => !prev)
@@ -33,32 +32,11 @@ function App() {
         getCountries()
     }, [])
 
-    function searchByTerm(term) {
-        setCountries(prev => {
-            prev.filter(p => {
-                return p.toLowerCase().includes(term.toLowerCase())
-            })
-        })
-    }
-
-    function regionFilter(selectedRegion) {
-        if (selectedRegion === 'all') {
-            setFilteredCountries(countries)
-        } else {
-            setFilteredCountries(regions[selectedRegion])
-        }
-    }
-
-    const lightClasses = 'bg-neutral-50'
-    const darkClasses = 'bg-slate-775'
-    const modeClasses = isDark ? darkClasses : lightClasses
+    const modeClasses = isDark ? 'bg-slate-775' : 'bg-neutral-50'
 
     return (
         <>
-            <Header
-                isDark={isDark}
-                modeToggle={handleClick}
-            />
+            <Header isDark={isDark} modeToggle={handleClick} />
 
             <main className={`pb-14 pt-5 px-4 lg:pt-12 ${modeClasses}`}>
                 <Outlet />
