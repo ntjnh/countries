@@ -1,4 +1,4 @@
-import { NavLink, useParams } from 'react-router'
+import { NavLink } from 'react-router'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMoon } from '@fortawesome/free-regular-svg-icons'
 import { faSun } from '@fortawesome/free-solid-svg-icons'
@@ -8,10 +8,14 @@ export default function Header({ isDark, modeToggle }) {
         light: 'bg-white shadow-md shadow-neutral-200/60 text-grey-925',
         dark: 'bg-slate-750 text-white'
     }
-    const { continent } = useParams()
-
     const modeClasses = isDark ? classes.dark : classes.light 
     const buttonText = isDark ? 'Light Mode' : 'Dark Mode' 
+    
+    const continents = [ 'Africa', 'Americas', 'Asia', 'Europe', 'Oceania']
+
+    const handleSortChange = e => {
+        console.log(e.target.value)
+    }
 
     return (
         <header className={`p-7 md:py-6 ${modeClasses}`}>
@@ -38,24 +42,37 @@ export default function Header({ isDark, modeToggle }) {
             <div className="container flex items-center justify-between mx-auto">
                 <ul className="-ml-6 mt-4">
                     <li className="inline-block px-6">
-                        <NavLink to={`/`}>All</NavLink>
+                        <NavLink
+                            className={({ isActive }) => isActive ? 'text-green-700 underline' : ''}
+                            to={`/`}
+                        >
+                            All
+                        </NavLink>
                     </li>
-                    <li className="inline-block px-6">
-                        <NavLink to={`/continents/africa`}>Africa</NavLink>
-                    </li>
-                    <li className="inline-block px-6">
-                        <NavLink to={`/continents/americas`}>Americas</NavLink>
-                    </li>
-                    <li className="inline-block px-6">
-                        <NavLink to={`/continents/asia`}>Asia</NavLink>
-                    </li>
-                    <li className="inline-block px-6">
-                        <NavLink to={`/continents/europe`}>Europe</NavLink>
-                    </li>
-                    <li className="inline-block px-6">
-                        <NavLink to={`/continents/oceania`}>Oceania</NavLink>
-                    </li>
+                    {continents.map((continent, i) => (
+                        <li className="inline-block px-6" key={i}>
+                            <NavLink
+                                className={({ isActive }) => isActive ? 'text-green-700 underline' : ''}
+                                to={`/continents/${continent.toLowerCase()}`}
+                            >
+                                {continent}
+                            </NavLink>
+                        </li>
+
+                    ))}
                 </ul>
+
+                <div>
+                    <span className="font-bold">Sort by: </span>
+
+                    <select onChange={handleSortChange} className="cursor-pointer" name="sort" id="sort">
+                        <option value="">--Select--</option>
+                        <option value="country">Country</option>
+                        {/* <option value="continent">Continent</option> */}
+                        <option value="capital">Capital City</option>
+                        <option value="population">Population</option>
+                    </select>
+                </div>
             </div>
         </header>
     )
