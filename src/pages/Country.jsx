@@ -11,15 +11,16 @@ export default function Country() {
     useEffect(() => {
         const getCountriesData = async () => {
             try {
-                const countriesData = await getCountry(slug)
-                setData(countriesData)
+                const countryData = await getCountry(slug)
+                setData(countryData)
                 setError(false)
+
             } catch(e) {
-                console.log(`Error: `)
-                console.log(e)
+                console.error(`Error: ${e.message}`)
                 setError(true)
             }
             setLoading(false)
+
         }
 
         getCountriesData()
