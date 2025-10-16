@@ -3,7 +3,7 @@ export default {
   content: ['./src/**/*.jsx'],
   theme: {
     fontFamily: {
-      sans: ['Nunito Sans', 'sans-serif'],
+      sans: ['Noto Sans', 'sans-serif'],
     },
     extend: {
       colors: {

@@ -28,7 +28,7 @@ export default function Country() {
 
     return (
         <div className="container mx-auto">
-            <Link className="" to="/">Back</Link>
+            <Link className="inline-block mb-6" to="/">Back</Link>
             {loading ? (
                 <h2>Loading...</h2>
             ) : error ? (
@@ -37,51 +37,60 @@ export default function Country() {
                 </div>
             ) : (
 
-                <article>
+                <article className="grid grid-cols-12 gap-12">
 
-                    <div style={{ width: "49%" }}>
-                        <img className="max-w-[266px]" src={data.flag} alt={data.flagAlt} />
+                    <div className="col-span-5">
+                        <img className="max-w-full" src={data.flag} alt={data.flagAlt} />
                     </div>
 
-                    <div className="w-[49%]">
-                        <h2>{data.name}</h2>
+                    <div className="col-span-7">
+                        <h2 className="font-semibold mb-4 text-3xl">{data.name}</h2>
 
-                        <ul>
-                            <li><strong>Official Name:</strong> <span>{data.officialName}</span></li>
-                            <li><strong>Native Name:</strong> <span>{data.nativeName}</span></li>
-                            <li><strong>Population:</strong> <span>{data.population.toLocaleString()}</span></li>
-                            <li><strong>Region:</strong> <span>{data.region}</span></li>
-                            <li><strong>Sub Region:</strong> <span>{data.subregion}</span></li>
-                            <li><strong>Capital:</strong> <span>{data.capital.join(', ')}</span></li>
-                        </ul>
+                        <div className="grid grid-cols-2">
 
-                        <ul>
-                            <li>
-                                <strong>Top Level Domain:</strong> <code>{data.tld.join(', ')}</code>
-                            </li>
-                            <li>
-                                <strong>Currencies:</strong>
-                                <p>
-                                    {data.currencies.join(', ')}
-                                </p>
-                            </li>
-                            <li>
-                                <strong>Languages:</strong>
-                                <ul>
-                                    {data.languages.join(', ')}
-                                </ul>
-                            </li>
+                            <ul>
+                                <li><strong>Official Name:</strong> <span>{data.officialName}</span></li>
+                                <li><strong>Native Name:</strong> <span>{data.nativeName}</span></li>
+                                <li><strong>Population:</strong> <span>{data.population.toLocaleString()}</span></li>
+                                <li><strong>Region:</strong> <span>{data.region}</span></li>
+                                <li><strong>Sub Region:</strong> <span>{data.subregion}</span></li>
+                                <li><strong>Capital:</strong> <span>{data.capital.join(', ')}</span></li>
+                            </ul>
+
+                            <ul>
+                                <li>
+                                    <strong>Top Level Domain:</strong> <code>{data.tld.join(', ')}</code>
+                                </li>
+                                <li>
+                                    <strong>Currencies:</strong>
+                                    <p>
+                                        {data.currencies.join(', ')}
+                                    </p>
+                                </li>
+                                <li>
+                                    <strong>Languages:</strong>
+                                    <ul>
+                                        {data.languages.join(', ')}
+                                    </ul>
+                                </li>
+                                
+                            </ul>
+
+                        </div>
+
+                        <ul className="mt-4">
                             <li>
                                 <strong>Border Countries:</strong>
-                                <ul className="-ml-2">
+                                <ul className="-ml-1 mt-2">
                                     {data.borders.map((b, i) => (
-                                        <li className="inline-block px-2" key={i}>
+                                        <li className="border border-neutral-700 inline-block mx-1 px-2" key={i}>
                                             {b}
                                         </li>
                                     ))}
                                 </ul>
                             </li>
                         </ul>
+
                     </div>
                 </article>
             )}

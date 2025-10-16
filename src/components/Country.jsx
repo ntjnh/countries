@@ -16,11 +16,13 @@ export default function Country({ flag, name, population, region, capital, isDar
 
     return (
         <article
-            className={`lg:mb-0 rounded-lg ${modeClasses.card}`}
+            className={`lg:mb-0 ${modeClasses.card}`}
         >
-            <div 
-                className="aspect-[16/10] bg-center bg-cover bg-no-repeat overflow-hidden rounded-t-lg"
-                style={{ backgroundImage: `url('${flag.svg}')` }}></div>
+            <div className="p-4 w-full">
+                <div 
+                    className="aspect-[16/10] bg-center bg-contain bg-no-repeat overflow-hidden"
+                    style={{ backgroundImage: `url('${flag.svg}')` }}></div>
+            </div>
 
             <div className="pb-9 pt-6 px-6 md:py-6">
                 <h2 className={`font-extrabold mb-0 text-base ${modeClasses.name}`}>
