@@ -1,0 +1,51 @@
+src/
+│
+├── assets/
+│   └── images/
+│
+├── components/                     Keep these dumb/reusable UI pieces.
+│   ├── common/                     If it doesn’t know about countries, it goes here.
+│   │   ├── Button.tsx
+│   │   ├── Input.tsx
+│   │   ├── Loader.tsx
+│   │   └── ThemeToggle.tsx
+│   │
+│   ├── layout/                     App structure
+│   │   ├── Header.tsx              (title + theme toggle)
+│   │   └── Container.tsx           (centering, max-width)
+│   │
+│   └── countries/                  Feature-specific UI - If it’s tightly coupled to the countries feature, it lives here.
+│       ├── CountryCard.tsx         single country
+│       ├── CountryList.tsx         grid wrapper
+│       ├── SearchBar.tsx           input logic
+│       ├── RegionFilter.tsx        dropdown
+│       └── BorderCountries.tsx     detail page links
+│
+├── pages/                          Route-level components
+│   ├── Home.tsx                    list + filters
+│   └── CountryDetail.tsx           full country view
+│
+├── services/                       Where API calls live
+│   └── api.ts                      No UI logic here. Just fetching + shaping data.
+│
+├── hooks/                          Where your actual logic should live.
+│   ├── useCountries.ts             Handles: fetching, filtering, search, loading/error state - 👉 This is the brain of your app.
+│   └── useTheme.ts                 Handles: toggle logic, localStorage persistence
+│
+├── context/                        Only needed for global state.
+│   └── ThemeContext.tsx            Provides theme across app - Don’t put everything in context — just theme.
+│
+├── types/                          Centralised TypeScript types.
+│   └── country.ts
+│
+├── utils/                          Pure helper functions
+│   ├── formatNumber.ts             format population numbers
+│   └── debounce.ts                 debounce search
+│
+├── styles/
+│   ├── globals.css                 resets + base styles
+│   └── variables.css               colours (especially for themes)
+│
+├── App.tsx
+├── main.tsx
+└── vite-env.d.ts
